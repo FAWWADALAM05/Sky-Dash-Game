@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 6381101f7cd909346a2805e1077a8b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4227868348716543635
+    second: Waterfall_Islands_Atlas_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 331
+        width: 727
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6112a513289355c0800000000000000
+      internalID: -4227868348716543635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 307
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd9c84fab2e1c49bf0e9cc44955dcc
+      internalID: -1428798426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 311
+        width: 348
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82021e291eaa8bf4ca646f16375e48ed
+      internalID: 132609110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 322
+        width: 435
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e022c85f03f3459bce5dbd4405564
+      internalID: -162637604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 381
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16e9c77eb02f9499e02555cd620618
+      internalID: 1663932078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 73
+        width: 284
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7f0c8cd9585d4b9e81ab837fcb1d3
+      internalID: 628748624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 63
+        width: 521
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e2c84a60b90034d9c9049adefe2086
+      internalID: -1178838889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 66
+        width: 972
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22d130e99ad214b92f53723755c9b6
+      internalID: 1149193953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Waterfall_Islands_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 313
+        width: 361
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4df74990930c54abfb8aa93b4429c4
+      internalID: 1060284680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 65574b80ecd2ab24181ff3b5efc27ea2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Waterfall_Islands_Atlas_0: -4227868348716543635
+      Waterfall_Islands_Atlas_1: -1428798426
+      Waterfall_Islands_Atlas_10: 848671560
+      Waterfall_Islands_Atlas_11: -111567710
+      Waterfall_Islands_Atlas_12: 1076119628
+      Waterfall_Islands_Atlas_13: -1723676971
+      Waterfall_Islands_Atlas_14: 542828283
+      Waterfall_Islands_Atlas_15: 2001613264
+      Waterfall_Islands_Atlas_16: -1497409158
+      Waterfall_Islands_Atlas_17: -1186339371
+      Waterfall_Islands_Atlas_18: -43902825
+      Waterfall_Islands_Atlas_19: -1664501619
+      Waterfall_Islands_Atlas_2: 628748624
+      Waterfall_Islands_Atlas_20: -62187210
+      Waterfall_Islands_Atlas_21: 1663932078
+      Waterfall_Islands_Atlas_22: 1054412280
+      Waterfall_Islands_Atlas_23: -1103724056
+      Waterfall_Islands_Atlas_24: 2079292782
+      Waterfall_Islands_Atlas_25: -105285930
+      Waterfall_Islands_Atlas_26: 2098062299
+      Waterfall_Islands_Atlas_27: -1589698346
+      Waterfall_Islands_Atlas_28: -1151689583
+      Waterfall_Islands_Atlas_29: -612213515
+      Waterfall_Islands_Atlas_3: 1149193953
+      Waterfall_Islands_Atlas_30: 1639150383
+      Waterfall_Islands_Atlas_31: 1322322755
+      Waterfall_Islands_Atlas_32: 1396783530
+      Waterfall_Islands_Atlas_33: 633232467
+      Waterfall_Islands_Atlas_34: 823939082
+      Waterfall_Islands_Atlas_35: -955744532
+      Waterfall_Islands_Atlas_36: 1959473781
+      Waterfall_Islands_Atlas_37: 999917006
+      Waterfall_Islands_Atlas_38: -1580090636
+      Waterfall_Islands_Atlas_39: -2002701395
+      Waterfall_Islands_Atlas_4: -1178838889
+      Waterfall_Islands_Atlas_40: -1457980133
+      Waterfall_Islands_Atlas_5: 132609110
+      Waterfall_Islands_Atlas_6: 1060284680
+      Waterfall_Islands_Atlas_7: -252119833
+      Waterfall_Islands_Atlas_8: -162637604
+      Waterfall_Islands_Atlas_9: -1602897728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
