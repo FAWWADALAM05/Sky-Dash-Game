@@ -15,6 +15,7 @@ public class InterstitialAdsManager : MonoBehaviour
 
     private void Awake()
     {
+        Debug.Log("INTERSTITIAL MANAGER AWAKE.");
         // Prevent duplicate managers when the Game scene reloads.
         if (instance != null && instance != this)
         {
@@ -30,11 +31,17 @@ public class InterstitialAdsManager : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log("INTERSTITIAL MANAGER START.");
+
         StartCoroutine(WaitForConsent());
     }
 
     private System.Collections.IEnumerator WaitForConsent()
     {
+        Debug.Log(
+        "INTERSTITIAL CHECKING CONSENT: " +
+        ConsentManager.AdsCanBeRequested
+    );
         while (!ConsentManager.AdsCanBeRequested)
         {
             yield return null;

@@ -806,6 +806,7 @@ GameObject:
   - component: {fileID: 335002643}
   - component: {fileID: 335002642}
   - component: {fileID: 335002641}
+  - component: {fileID: 335002644}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -887,6 +888,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &335002644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335002640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cca7a78410c7884883a5ef6b983d239, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameSceneBannerHider
 --- !u!1 &366672053
 GameObject:
   m_ObjectHideFlags: 0
@@ -898,6 +911,7 @@ GameObject:
   - component: {fileID: 366672056}
   - component: {fileID: 366672055}
   - component: {fileID: 366672054}
+  - component: {fileID: 366672057}
   m_Layer: 5
   m_Name: PausePanel
   m_TagString: Untagged
@@ -964,6 +978,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -49.201233}
   m_SizeDelta: {x: 0, y: 98.4025}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &366672057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 366672053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84e448d2a28554346b346ca0a4a09ac8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PauseBanner
 --- !u!1001 &395452503
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3887,6 +3913,7 @@ GameObject:
   - component: {fileID: 1070500658}
   - component: {fileID: 1070500657}
   - component: {fileID: 1070500659}
+  - component: {fileID: 1070500660}
   m_Layer: 5
   m_Name: GameOverPanel
   m_TagString: Untagged
@@ -4052,6 +4079,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1070500660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1070500655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 222cef7ff1ae757499d6e7fff08474db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameOverBanner
 --- !u!1 &1074278178
 GameObject:
   m_ObjectHideFlags: 0
@@ -5437,7 +5476,7 @@ Animator:
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 10a18d94524901140b58d0026612992b, type: 2}
   m_CullingMode: 0
-  m_UpdateMode: 0
+  m_UpdateMode: 2
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
@@ -5516,8 +5555,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2, y: 0, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.17, y: 0.17, z: 0.68}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

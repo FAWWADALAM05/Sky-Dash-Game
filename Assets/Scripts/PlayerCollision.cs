@@ -13,16 +13,25 @@ public class PlayerCollision : MonoBehaviour
 
     private Collider2D playerCollider;
 
+    private PlayerFlight playerFlight;
+    private Animator playerAnimator;
+
     private void Start()
     {
+        // Make sure normal game time is active when the game starts.
+        Time.timeScale = 1f;
+
+        // Get Player components.
         playerCollider = GetComponent<Collider2D>();
+        playerFlight = GetComponent<PlayerFlight>();
+        playerAnimator = GetComponent<Animator>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Obstacle"))
         {
-            // Ignore additional obstacle collisions after Game Over
+            // Ignore additional obstacle collisions after Game Over.
             if (gameOver)
             {
                 return;
@@ -32,33 +41,81 @@ public class PlayerCollision : MonoBehaviour
 
             Debug.Log("GAME OVER!");
 
-            // Play obstacle hit sound only if Sound is ON
+            // ---------------------------------------------
+            // PLAY PLAYER GAME OVER ANIMATION
+            // ---------------------------------------------
+            if (playerAnimator != null)
+            {
+                // Make sure the Animator uses unscaled time.
+                playerAnimator.updateMode = AnimatorUpdateMode.UnscaledTime;
+
+                // Clear any previous GameOver trigger.
+                playerAnimator.ResetTrigger("GameOver");
+
+                // Directly play the GameOver animation from the beginning.
+                playerAnimator.Play("GameOver", 0, 0f);
+
+                Debug.Log("GAME OVER ANIMATION PLAYING.");
+            }
+            else
+            {
+                Debug.LogWarning("Player Animator not found.");
+            }
+
+            // ---------------------------------------------
+            // STOP PLAYER FLIGHT
+            // ---------------------------------------------
+            if (playerFlight != null)
+            {
+                playerFlight.StopFlight();
+
+                Debug.Log("PLAYER FLIGHT STOPPED.");
+            }
+
+            // ---------------------------------------------
+            // PLAY OBSTACLE HIT SOUND
+            // ---------------------------------------------
             if (MainMenuSettings.IsSoundEnabled())
             {
-                AudioSource playerAudio = GetComponent<AudioSource>();
+                AudioSource playerAudio =
+                    GetComponent<AudioSource>();
 
-                if (playerAudio != null && playerAudio.clip != null)
+                if (playerAudio != null &&
+                    playerAudio.clip != null)
                 {
                     playerAudio.Play();
                 }
             }
 
-            // Show Game Over panel
-            gameOverPanel.SetActive(true);
+            // ---------------------------------------------
+            // SHOW GAME OVER PANEL
+            // ---------------------------------------------
+            if (gameOverPanel != null)
+            {
+                gameOverPanel.SetActive(true);
+            }
 
-            // Play Game Over sound only if Sound is ON
+            // ---------------------------------------------
+            // PLAY GAME OVER SOUND
+            // ---------------------------------------------
             if (MainMenuSettings.IsSoundEnabled())
             {
-                AudioSource gameOverAudio =
-                    gameOverPanel.GetComponent<AudioSource>();
-
-                if (gameOverAudio != null && gameOverAudio.clip != null)
+                if (gameOverPanel != null)
                 {
-                    gameOverAudio.Play();
+                    AudioSource gameOverAudio =
+                        gameOverPanel.GetComponent<AudioSource>();
+
+                    if (gameOverAudio != null &&
+                        gameOverAudio.clip != null)
+                    {
+                        gameOverAudio.Play();
+                    }
                 }
             }
 
-            // Stop the score
+            // ---------------------------------------------
+            // STOP SCORE
+            // ---------------------------------------------
             ScoreManager scoreManager =
                 FindFirstObjectByType<ScoreManager>();
 
@@ -66,13 +123,30 @@ public class PlayerCollision : MonoBehaviour
             {
                 scoreManager.StopScoring();
             }
+
+            // ---------------------------------------------
+            // FREEZE ENTIRE GAMEPLAY WORLD
+            // ---------------------------------------------
+            //
+            // This freezes:
+            // Player
+            // Clouds
+            // Floating Islands
+            // Obstacles
+            // Coins
+            // Physics
+            // Other normal gameplay movement
+            //
+            Time.timeScale = 0f;
+
+            Debug.Log("ENTIRE GAMEPLAY WORLD FROZEN.");
         }
     }
 
-    // Called after the player successfully earns the rewarded ad
+    // Called after the player successfully earns the rewarded ad.
     public void ContinueGame()
     {
-        // Continue can only be used once per run
+        // Continue can only be used once per run.
         if (!gameOver || continueUsed)
         {
             Debug.LogWarning("Continue is not available.");
@@ -82,13 +156,34 @@ public class PlayerCollision : MonoBehaviour
         continueUsed = true;
         gameOver = false;
 
-        // Hide Game Over panel
+        // ---------------------------------------------
+        // RESUME ENTIRE GAMEPLAY WORLD
+        // ---------------------------------------------
+        Time.timeScale = 1f;
+
+        Debug.Log("GAMEPLAY WORLD RESUMED.");
+
+        // ---------------------------------------------
+        // RESUME PLAYER FLIGHT
+        // ---------------------------------------------
+        if (playerFlight != null)
+        {
+            playerFlight.ResumeFlight();
+
+            Debug.Log("PLAYER FLIGHT RESUMED.");
+        }
+
+        // ---------------------------------------------
+        // HIDE GAME OVER PANEL
+        // ---------------------------------------------
         if (gameOverPanel != null)
         {
             gameOverPanel.SetActive(false);
         }
 
-        // Resume score
+        // ---------------------------------------------
+        // RESUME SCORE
+        // ---------------------------------------------
         ScoreManager scoreManager =
             FindFirstObjectByType<ScoreManager>();
 
@@ -97,7 +192,9 @@ public class PlayerCollision : MonoBehaviour
             scoreManager.ResumeScoring();
         }
 
-        // Brief invulnerability
+        // ---------------------------------------------
+        // TEMPORARY INVULNERABILITY
+        // ---------------------------------------------
         if (playerCollider != null)
         {
             StartCoroutine(ContinueInvulnerability());
@@ -116,6 +213,13 @@ public class PlayerCollision : MonoBehaviour
 
         playerCollider.enabled = true;
 
-        Debug.Log("Player invulnerability ended.");
+        Debug.Log("PLAYER INVULNERABILITY ENDED.");
+    }
+
+    private void OnDestroy()
+    {
+        // Safety reset.
+        // Prevent the next scene from remaining frozen.
+        Time.timeScale = 1f;
     }
 }
