@@ -8,7 +8,7 @@ public class RewardedAdsManager : MonoBehaviour
 
     // Google official Android Rewarded Test Ad Unit ID.
     private const string TestAdUnitId =
-        "ca-app-pub-3940256099942544/5224354917";
+        "ca-app-pub-1574762395478706/1555802351";
 
     private void Start()
     {

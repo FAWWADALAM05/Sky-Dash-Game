@@ -12,7 +12,6 @@ public class PlayerCollision : MonoBehaviour
     private bool continueUsed = false;
 
     private Collider2D playerCollider;
-
     private PlayerFlight playerFlight;
     private Animator playerAnimator;
 
@@ -49,10 +48,12 @@ public class PlayerCollision : MonoBehaviour
                 // Make sure the Animator uses unscaled time.
                 playerAnimator.updateMode = AnimatorUpdateMode.UnscaledTime;
 
-                // Clear any previous GameOver trigger.
+                // Clear previous triggers.
                 playerAnimator.ResetTrigger("GameOver");
+                playerAnimator.ResetTrigger("Tap");
 
-                // Directly play the GameOver animation from the beginning.
+                // Directly play GameOver animation
+                // from the beginning.
                 playerAnimator.Play("GameOver", 0, 0f);
 
                 Debug.Log("GAME OVER ANIMATION PLAYING.");
@@ -143,7 +144,8 @@ public class PlayerCollision : MonoBehaviour
         }
     }
 
-    // Called after the player successfully earns the rewarded ad.
+    // Called after the player successfully earns
+    // the rewarded ad.
     public void ContinueGame()
     {
         // Continue can only be used once per run.
@@ -174,6 +176,34 @@ public class PlayerCollision : MonoBehaviour
         }
 
         // ---------------------------------------------
+        // RETURN PLAYER TO NORMAL FLYING ANIMATION
+        // ---------------------------------------------
+        if (playerAnimator != null)
+        {
+            // Clear GameOver/Tap triggers.
+            playerAnimator.ResetTrigger("GameOver");
+            playerAnimator.ResetTrigger("Tap");
+
+            // Make sure the Animator continues normally.
+            playerAnimator.updateMode =
+                AnimatorUpdateMode.UnscaledTime;
+
+            // Directly return to NormalFlying.
+            playerAnimator.Play(
+                "NormalFlying",
+                0,
+                0f
+            );
+
+            // Tell Animator that the player is flying.
+            playerAnimator.SetBool("Fly", true);
+
+            Debug.Log(
+                "PLAYER ANIMATION RETURNED TO NORMAL FLYING."
+            );
+        }
+
+        // ---------------------------------------------
         // HIDE GAME OVER PANEL
         // ---------------------------------------------
         if (gameOverPanel != null)
@@ -197,7 +227,9 @@ public class PlayerCollision : MonoBehaviour
         // ---------------------------------------------
         if (playerCollider != null)
         {
-            StartCoroutine(ContinueInvulnerability());
+            StartCoroutine(
+                ContinueInvulnerability()
+            );
         }
 
         Debug.Log("GAME CONTINUED AFTER REWARDED AD.");

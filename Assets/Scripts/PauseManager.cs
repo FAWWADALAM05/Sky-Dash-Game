@@ -2,50 +2,56 @@ using UnityEngine;
 
 public class PauseManager : MonoBehaviour
 {
+    [Header("Pause Panel")]
     public GameObject pausePanel;
 
-    [Header("Button Sound")]
-    public AudioClip buttonClickSound;
-
-    [Header("Pause Sound")]
-    public AudioClip pauseSound;
+    [Header("Player")]
+    public Animator playerAnimator;
 
     public void PauseGame()
     {
-        // Play button click sound
-        PlayButtonSound();
-
-        // Play pause sound
-        if (pauseSound != null && MainMenuSettings.IsSoundEnabled())
+        // Show Pause Panel
+        if (pausePanel != null)
         {
-            AudioSource.PlayClipAtPoint(
-                pauseSound,
-                Camera.main.transform.position
-            );
+            pausePanel.SetActive(true);
         }
 
-        pausePanel.SetActive(true);
+        // Stop player animation
+        if (playerAnimator != null)
+        {
+            playerAnimator.speed = 0f;
+        }
+
+        // Stop all gameplay movement and physics
         Time.timeScale = 0f;
     }
 
     public void ResumeGame()
     {
-        pausePanel.SetActive(false);
+        // Resume gameplay
         Time.timeScale = 1f;
 
-        // Play button click sound after game resumes
-        PlayButtonSound();
+        // Resume player animation
+        if (playerAnimator != null)
+        {
+            playerAnimator.speed = 1f;
+        }
+
+        // Hide Pause Panel
+        if (pausePanel != null)
+        {
+            pausePanel.SetActive(false);
+        }
     }
 
-    private void PlayButtonSound()
+    private void OnDestroy()
     {
-        if (buttonClickSound != null &&
-            MainMenuSettings.IsSoundEnabled())
+        // Safety: restore normal time
+        Time.timeScale = 1f;
+
+        if (playerAnimator != null)
         {
-            AudioSource.PlayClipAtPoint(
-                buttonClickSound,
-                Camera.main.transform.position
-            );
+            playerAnimator.speed = 1f;
         }
     }
 }

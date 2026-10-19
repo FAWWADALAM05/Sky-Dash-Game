@@ -17,7 +17,7 @@ public class BannerAdsManager : MonoBehaviour
 
     // Google official Android test Banner Ad Unit ID.
     private const string TestAdUnitId =
-        "ca-app-pub-3940256099942544/6300978111";
+        "ca-app-pub-1574762395478706/2852873471";
 
     private void Awake()
     {

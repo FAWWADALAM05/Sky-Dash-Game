@@ -11,7 +11,7 @@ public class InterstitialAdsManager : MonoBehaviour
 
     // Google official Android Interstitial Test Ad Unit ID.
     private const string TestAdUnitId =
-        "ca-app-pub-3940256099942544/1033173712";
+        "ca-app-pub-1574762395478706/8154668599";
 
     private void Awake()
     {

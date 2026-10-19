@@ -1,0 +1,8 @@
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+E:/Unity/Sky_Dash/Sky Dash/.utmp/RelWithDebInfo/6l663004/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+90	12256	8135997176958285	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8d2b951425eac2f6
+78	12305	8135997176768791	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c39faa9d5b07497c
+4	12510	8135997179052294	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8b4fc0e08ac5cafa
+12269	22273	8135997279915517	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	589983159b0fc6e8
+41	12528	8135997182437819	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	92fa57bcf5f8689c
+65	14670	8135997202633040	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7b3e369724aa0a2
+15178	20273	8135997250511463	E:/Unity/Sky_Dash/Sky Dash/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l663004/obj/arm64-v8a/libswappywrapper.so	6ae1393d5c52365e
+12511	15177	8135997206286055	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	52af7383c8a64965
+53	16169	8135997218572596	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	eb25dcdab3ff1031
+12308	23500	8135997292721261	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a77b686cee0d0ebf
+23501	25183	8135997306562486	E:/Unity/Sky_Dash/Sky Dash/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l663004/obj/arm64-v8a/libgame.so	f227136af23256b6
+87	5151	8140497290207203	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c39faa9d5b07497c
+27	5349	8140497290646751	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8d2b951425eac2f6
+41	5488	8140497292696654	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8b4fc0e08ac5cafa
+53	5618	8140497294731835	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	92fa57bcf5f8689c
+5489	6658	8140497305649588	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	52af7383c8a64965
+76	7066	8140497308701773	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7b3e369724aa0a2
+65	7554	8140497314581530	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	eb25dcdab3ff1031
+6659	8549	8140497322555981	E:/Unity/Sky_Dash/Sky Dash/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l663004/obj/arm64-v8a/libswappywrapper.so	6ae1393d5c52365e
+5206	10190	8140497341621277	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	589983159b0fc6e8
+5467	10642	8140497346303903	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a77b686cee0d0ebf
+10642	11038	8140497350004184	E:/Unity/Sky_Dash/Sky Dash/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l663004/obj/arm64-v8a/libgame.so	f227136af23256b6

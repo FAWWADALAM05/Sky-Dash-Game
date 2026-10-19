@@ -3,6 +3,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerFlight : MonoBehaviour
 {
+    [Header("Flight Settings")]
     public float flapForce = 5f;
 
     [Header("Flight Boundary")]
@@ -10,74 +11,90 @@ public class PlayerFlight : MonoBehaviour
     public float bottomLimit = -4.2f;
 
     private Rigidbody2D rb;
+    private Animator animator;
 
-    // Stores the original gravity so it can be restored after Continue.
     private float originalGravityScale;
 
-    // Prevents flight input after Game Over.
     private bool flightStopped = false;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
 
-        // Remember the original gravity setting.
-        originalGravityScale = rb.gravityScale;
+        if (rb != null)
+        {
+            originalGravityScale = rb.gravityScale;
+        }
+    }
+
+    private void Start()
+    {
+        flightStopped = false;
+
+        // Start normal flying animation
+        if (animator != null)
+        {
+            animator.SetBool("Fly", true);
+        }
     }
 
     private void Update()
     {
-        // Do not accept flight input after Game Over.
-        if (!flightStopped)
-        {
-            // Keyboard — Space
-            if (Keyboard.current != null &&
-                Keyboard.current.spaceKey.wasPressedThisFrame)
-            {
-                FlyUp();
-            }
-
-            // Mouse — Left Click
-            if (Mouse.current != null &&
-                Mouse.current.leftButton.wasPressedThisFrame)
-            {
-                FlyUp();
-            }
-
-            // Mobile Touch
-            if (Touchscreen.current != null &&
-                Touchscreen.current.primaryTouch.press.wasPressedThisFrame)
-            {
-                FlyUp();
-            }
-        }
-
-        // Keep player inside screen boundary.
-        Vector3 position = transform.position;
-
-        position.y = Mathf.Clamp(
-            position.y,
-            bottomLimit,
-            topLimit
-        );
-
-        transform.position = position;
-    }
-
-    private void FlyUp()
-    {
-        // Extra safety: do not fly while stopped.
+        // Do not allow flying after Game Over
         if (flightStopped)
         {
             return;
         }
 
-        rb.linearVelocity = new Vector2(
-            rb.linearVelocity.x,
-            flapForce
-        );
+        // Keyboard — Space
+        if (Keyboard.current != null &&
+            Keyboard.current.spaceKey.wasPressedThisFrame)
+        {
+            FlyUp();
+        }
 
-        // Play Fly/Tap sound only if Sound is ON.
+        // Mouse — Left Click
+        if (Mouse.current != null &&
+            Mouse.current.leftButton.wasPressedThisFrame)
+        {
+            FlyUp();
+        }
+
+        // Mobile Touch
+        if (Touchscreen.current != null &&
+            Touchscreen.current.primaryTouch.press.wasPressedThisFrame)
+        {
+            FlyUp();
+        }
+
+        // Keep player inside the vertical boundary
+        KeepPlayerInsideBoundary();
+    }
+
+    private void FlyUp()
+    {
+        if (flightStopped)
+        {
+            return;
+        }
+
+        if (rb != null)
+        {
+            rb.linearVelocity = new Vector2(
+                rb.linearVelocity.x,
+                flapForce
+            );
+        }
+
+        // Play TapFlying animation
+        if (animator != null)
+        {
+            animator.ResetTrigger("Tap");
+            animator.SetTrigger("Tap");
+        }
+
+        // Play Fly/Tap sound only if Sound is ON
         if (MainMenuSettings.IsSoundEnabled())
         {
             AudioSource[] audioSources =
@@ -91,27 +108,50 @@ public class PlayerFlight : MonoBehaviour
         }
     }
 
-    // Called when Game Over happens.
+    private void KeepPlayerInsideBoundary()
+    {
+        Vector3 position = transform.position;
+
+        position.y = Mathf.Clamp(
+            position.y,
+            bottomLimit,
+            topLimit
+        );
+
+        transform.position = position;
+    }
+
+    // =========================================================
+    // GAME OVER — STOP PLAYER
+    // =========================================================
+
     public void StopFlight()
     {
         flightStopped = true;
 
-        // Stop all current movement.
-        rb.linearVelocity = Vector2.zero;
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.angularVelocity = 0f;
 
-        // Stop gravity while Game Over is displayed.
-        rb.gravityScale = 0f;
+            rb.gravityScale = 0f;
+        }
 
         Debug.Log("PLAYER FLIGHT STOPPED.");
     }
 
-    // Called when the player successfully continues after the rewarded ad.
+    // =========================================================
+    // CONTINUE AFTER REWARDED AD
+    // =========================================================
+
     public void ResumeFlight()
     {
         flightStopped = false;
 
-        // Restore the original gravity.
-        rb.gravityScale = originalGravityScale;
+        if (rb != null)
+        {
+            rb.gravityScale = originalGravityScale;
+        }
 
         Debug.Log("PLAYER FLIGHT RESUMED.");
     }

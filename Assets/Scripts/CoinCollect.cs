@@ -2,18 +2,26 @@ using UnityEngine;
 
 public class CoinCollect : MonoBehaviour
 {
+    private CoinMovement coinMovement;
+
+    private void Start()
+    {
+        coinMovement = GetComponent<CoinMovement>();
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
             Debug.Log("COIN COLLECTED!");
 
-            // Play coin collection sound only if Sound is ON
             if (MainMenuSettings.IsSoundEnabled())
             {
-                AudioSource audioSource = GetComponent<AudioSource>();
+                AudioSource audioSource =
+                    GetComponent<AudioSource>();
 
-                if (audioSource != null && audioSource.clip != null)
+                if (audioSource != null &&
+                    audioSource.clip != null)
                 {
                     AudioSource.PlayClipAtPoint(
                         audioSource.clip,
@@ -23,7 +31,6 @@ public class CoinCollect : MonoBehaviour
                 }
             }
 
-            // Add coin
             CoinManager coinManager =
                 FindFirstObjectByType<CoinManager>();
 
@@ -31,10 +38,6 @@ public class CoinCollect : MonoBehaviour
             {
                 coinManager.AddCoin();
             }
-
-            // Recycle this coin instead of destroying it
-            CoinMovement coinMovement =
-                GetComponent<CoinMovement>();
 
             if (coinMovement != null)
             {

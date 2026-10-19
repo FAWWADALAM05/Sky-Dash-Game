@@ -2,106 +2,343 @@ using UnityEngine;
 
 public class CoinMovement : MonoBehaviour
 {
-    [Header("Movement")]
+    [Header("Coin Movement")]
     public float moveSpeed = 3f;
-    public float leftLimit = -8f;
+
+    [Header("Coin X Position")]
+    public float xSpacing = 10f;
 
     [Header("Random Y Position")]
-    public float minY = -3.5f;
-    public float maxY = 3.5f;
+    public float minY = -3.2f;
+    public float maxY = 3.2f;
 
-    [Header("Coin X Spacing")]
-    public float minGapX = 3f;
-    public float maxGapX = 5f;
+    [Header("Starting X")]
+    public float startingX = 1f;
 
-    [Header("Camera Spacing")]
-    public float cameraRightOffset = 2f;
+    [Header("Screen")]
+    public float leftLimit = -8f;
+
+    [Header("Obstacle Safety")]
+    public float obstacleSafeDistance = 1.5f;
+
+    [Header("Coin Safety")]
+    public float coinSafeDistance = 2f;
+
+    [Header("Search")]
+    public int maxAttempts = 500;
 
     private void Start()
     {
-        // Randomize starting Y position
-        Vector3 position = transform.position;
-
-        position.y = Random.Range(minY, maxY);
-
-        transform.position = position;
+        SetStartingPosition();
     }
 
     private void Update()
     {
-        // Move coin from right to left
+        // Move coin left
         transform.Translate(
             Vector3.left * moveSpeed * Time.deltaTime
         );
 
-        // When coin leaves the camera
+        // Continuously check obstacle safety
+        if (IsTooCloseToObstacle())
+        {
+            MoveToSafeY();
+        }
+
+        // Continuously check other coins
+        if (IsTooCloseToCoin())
+        {
+            MoveToSafeY();
+        }
+
+        // Recycle
         if (transform.position.x <= leftLimit)
         {
             RecycleCoin();
         }
     }
 
-    // Recycle the coin after it leaves the screen
-    // OR after the player collects it
-    public void RecycleCoin()
+    private void SetStartingPosition()
     {
-        MoveToRightOfOtherCoins();
-    }
-
-    private void MoveToRightOfOtherCoins()
-    {
-        CoinMovement[] allCoins =
+        CoinMovement[] coins =
             FindObjectsByType<CoinMovement>(
                 FindObjectsSortMode.None
             );
 
-        float rightmostX = GetCameraRightEdge();
+        System.Array.Sort(
+            coins,
+            (a, b) =>
+                a.transform.position.x.CompareTo(
+                    b.transform.position.x
+                )
+        );
 
-        foreach (CoinMovement coin in allCoins)
+        int index =
+            System.Array.IndexOf(
+                coins,
+                this
+            );
+
+        float newX =
+            startingX + (index * xSpacing);
+
+        float newY =
+            FindSafeY(newX);
+
+        transform.position = new Vector3(
+            newX,
+            newY,
+            transform.position.z
+        );
+    }
+
+    public void RecycleCoin()
+    {
+        CoinMovement[] coins =
+            FindObjectsByType<CoinMovement>(
+                FindObjectsSortMode.None
+            );
+
+        float rightmostX = float.MinValue;
+
+        foreach (CoinMovement coin in coins)
         {
-            if (coin != this)
+            if (coin == this)
             {
-                if (coin.transform.position.x > rightmostX)
+                continue;
+            }
+
+            if (coin.transform.position.x > rightmostX)
+            {
+                rightmostX =
+                    coin.transform.position.x;
+            }
+        }
+
+        float newX;
+
+        if (rightmostX == float.MinValue)
+        {
+            newX = startingX;
+        }
+        else
+        {
+            newX =
+                rightmostX + xSpacing;
+        }
+
+        float newY =
+            FindSafeY(newX);
+
+        transform.position = new Vector3(
+            newX,
+            newY,
+            transform.position.z
+        );
+    }
+
+    // --------------------------------------------------
+    // FIND SAFE Y
+    // --------------------------------------------------
+
+    private float FindSafeY(float x)
+    {
+        for (int i = 0; i < maxAttempts; i++)
+        {
+            float randomY =
+                Random.Range(
+                    minY,
+                    maxY
+                );
+
+            Vector2 position =
+                new Vector2(
+                    x,
+                    randomY
+                );
+
+            if (IsPositionSafe(position))
+            {
+                return randomY;
+            }
+        }
+
+        // Systematic search
+        for (int i = 0; i <= 100; i++)
+        {
+            float testY =
+                Mathf.Lerp(
+                    minY,
+                    maxY,
+                    i / 100f
+                );
+
+            Vector2 position =
+                new Vector2(
+                    x,
+                    testY
+                );
+
+            if (IsPositionSafe(position))
+            {
+                return testY;
+            }
+        }
+
+        // Last resort
+        return 0f;
+    }
+
+    // --------------------------------------------------
+    // POSITION SAFETY
+    // --------------------------------------------------
+
+    private bool IsPositionSafe(
+        Vector2 position
+    )
+    {
+        if (IsObstacleAtPosition(position))
+        {
+            return false;
+        }
+
+        if (IsCoinAtPosition(position))
+        {
+            return false;
+        }
+
+        return true;
+    }
+
+    // --------------------------------------------------
+    // REAL OBSTACLE COLLIDER CHECK
+    // --------------------------------------------------
+
+    private bool IsObstacleAtPosition(
+        Vector2 position
+    )
+    {
+        ObstacleMovement[] obstacles =
+            FindObjectsByType<ObstacleMovement>(
+                FindObjectsSortMode.None
+            );
+
+        foreach (
+            ObstacleMovement obstacle
+            in obstacles
+        )
+        {
+            Collider2D[] colliders =
+                obstacle.GetComponentsInChildren<
+                    Collider2D
+                >();
+
+            foreach (
+                Collider2D obstacleCollider
+                in colliders
+            )
+            {
+                if (obstacleCollider == null ||
+                    !obstacleCollider.enabled)
                 {
-                    rightmostX = coin.transform.position.x;
+                    continue;
+                }
+
+                Vector2 closestPoint =
+                    obstacleCollider.ClosestPoint(
+                        position
+                    );
+
+                float distance =
+                    Vector2.Distance(
+                        position,
+                        closestPoint
+                    );
+
+                if (distance <
+                    obstacleSafeDistance)
+                {
+                    return true;
                 }
             }
         }
 
-        // Random gap between coins
-        float randomGap = Random.Range(
-            minGapX,
-            maxGapX
-        );
-
-        Vector3 newPosition = transform.position;
-
-        // New X position after the rightmost coin
-        newPosition.x = rightmostX + randomGap;
-
-        // New random Y position
-        newPosition.y = Random.Range(
-            minY,
-            maxY
-        );
-
-        transform.position = newPosition;
+        return false;
     }
 
-    private float GetCameraRightEdge()
-    {
-        Camera mainCamera = Camera.main;
+    // --------------------------------------------------
+    // COIN CHECK
+    // --------------------------------------------------
 
-        if (mainCamera == null)
+    private bool IsCoinAtPosition(
+        Vector2 position
+    )
+    {
+        CoinMovement[] coins =
+            FindObjectsByType<CoinMovement>(
+                FindObjectsSortMode.None
+            );
+
+        foreach (
+            CoinMovement coin
+            in coins
+        )
         {
-            return 8f;
+            if (coin == this)
+            {
+                continue;
+            }
+
+            float distance =
+                Vector2.Distance(
+                    position,
+                    coin.transform.position
+                );
+
+            if (distance <
+                coinSafeDistance)
+            {
+                return true;
+            }
         }
 
-        float cameraRightEdge =
-            mainCamera.transform.position.x +
-            mainCamera.orthographicSize *
-            mainCamera.aspect;
+        return false;
+    }
 
-        return cameraRightEdge + cameraRightOffset;
+    // --------------------------------------------------
+    // CONTINUOUS OBSTACLE CHECK
+    // --------------------------------------------------
+
+    private bool IsTooCloseToObstacle()
+    {
+        return IsObstacleAtPosition(
+            transform.position
+        );
+    }
+
+    private bool IsTooCloseToCoin()
+    {
+        return IsCoinAtPosition(
+            transform.position
+        );
+    }
+
+    // --------------------------------------------------
+    // MOVE COIN TO SAFE Y
+    // --------------------------------------------------
+
+    private void MoveToSafeY()
+    {
+        float safeY =
+            FindSafeY(
+                transform.position.x
+            );
+
+        transform.position =
+            new Vector3(
+                transform.position.x,
+                safeY,
+                transform.position.z
+            );
     }
 }
