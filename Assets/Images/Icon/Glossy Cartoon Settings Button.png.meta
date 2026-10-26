@@ -133,6 +133,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,12 +153,12 @@ TextureImporter:
       name: Glossy Cartoon Settings Button_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 37
-        width: 1746
-        height: 820
+        x: 6
+        y: 43
+        width: 694
+        height: 260
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -158,187 +171,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_1
-      rect:
-        serializedVersion: 2
-        x: 429
-        y: 816
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe4bc2d88c2cc6d70800000000000000
-      internalID: 9037812718843507951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_2
-      rect:
-        serializedVersion: 2
-        x: 968
-        y: 780
-        width: 39
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a5d922b9aa9b4120800000000000000
-      internalID: 2399181280134157728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_3
-      rect:
-        serializedVersion: 2
-        x: 1050
-        y: 775
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2db990d7da12f7e20800000000000000
-      internalID: 3350433676797778898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_4
-      rect:
-        serializedVersion: 2
-        x: 1355
-        y: 773
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f796a45a289014110800000000000000
-      internalID: 1243285428854483327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_5
-      rect:
-        serializedVersion: 2
-        x: 994
-        y: 762
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 64be1c2e0407b3350800000000000000
-      internalID: 5997510752758524742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_6
-      rect:
-        serializedVersion: 2
-        x: 1017
-        y: 735
-        width: 48
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82f03a13d2c0bb6c0800000000000000
-      internalID: -4126691245309096152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_7
-      rect:
-        serializedVersion: 2
-        x: 1225
-        y: 765
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10488abbb82949820800000000000000
-      internalID: 2924123186916787201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glossy Cartoon Settings Button_8
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 763
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 600095096e0e57840800000000000000
-      internalID: 5221326623874809862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e758e7139fddb0540b70c780a7d2f10c
     internalID: 0
     vertices: []
     indices: 
@@ -346,17 +183,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Glossy Cartoon Settings Button_0: 8012512343311505091
-      Glossy Cartoon Settings Button_1: 9037812718843507951
-      Glossy Cartoon Settings Button_2: 2399181280134157728
-      Glossy Cartoon Settings Button_3: 3350433676797778898
-      Glossy Cartoon Settings Button_4: 1243285428854483327
-      Glossy Cartoon Settings Button_5: 5997510752758524742
-      Glossy Cartoon Settings Button_6: -4126691245309096152
-      Glossy Cartoon Settings Button_7: 2924123186916787201
-      Glossy Cartoon Settings Button_8: 5221326623874809862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

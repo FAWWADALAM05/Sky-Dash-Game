@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: dec9de757508b10479862cd153771720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5189689769286270548
+    second: GameOver Futuristic Jet Damage Animation Sheet_0
+  - first:
+      213: 7860854011539183458
+    second: GameOver Futuristic Jet Damage Animation Sheet_1
+  - first:
+      213: 5944424182764097370
+    second: GameOver Futuristic Jet Damage Animation Sheet_2
+  - first:
+      213: -9042827680266178484
+    second: GameOver Futuristic Jet Damage Animation Sheet_3
+  - first:
+      213: -6193746119768486351
+    second: GameOver Futuristic Jet Damage Animation Sheet_4
+  - first:
+      213: 6994228948051664219
+    second: GameOver Futuristic Jet Damage Animation Sheet_5
+  - first:
+      213: -8690658990451628561
+    second: GameOver Futuristic Jet Damage Animation Sheet_6
+  - first:
+      213: -6228929519683220740
+    second: GameOver Futuristic Jet Damage Animation Sheet_7
+  - first:
+      213: -8731247447090316187
+    second: GameOver Futuristic Jet Damage Animation Sheet_8
+  - first:
+      213: -2320274210073861919
+    second: GameOver Futuristic Jet Damage Animation Sheet_9
+  - first:
+      213: -4854386127197530459
+    second: GameOver Futuristic Jet Damage Animation Sheet_10
+  - first:
+      213: 1042633482367255719
+    second: GameOver Futuristic Jet Damage Animation Sheet_11
+  - first:
+      213: 1807611051536376856
+    second: GameOver Futuristic Jet Damage Animation Sheet_12
+  - first:
+      213: -7055014460386346978
+    second: GameOver Futuristic Jet Damage Animation Sheet_13
+  - first:
+      213: -7420329640345427589
+    second: GameOver Futuristic Jet Damage Animation Sheet_14
+  - first:
+      213: 2094867225478170636
+    second: GameOver Futuristic Jet Damage Animation Sheet_15
+  - first:
+      213: -1246895830922722952
+    second: GameOver Futuristic Jet Damage Animation Sheet_16
+  - first:
+      213: -2837403569054573018
+    second: GameOver Futuristic Jet Damage Animation Sheet_17
+  - first:
+      213: -5712504972632450206
+    second: GameOver Futuristic Jet Damage Animation Sheet_18
+  - first:
+      213: 4441229135559372717
+    second: GameOver Futuristic Jet Damage Animation Sheet_19
+  - first:
+      213: -3004495075366218518
+    second: GameOver Futuristic Jet Damage Animation Sheet_20
+  - first:
+      213: -3722179625769354550
+    second: GameOver Futuristic Jet Damage Animation Sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver Futuristic Jet Damage Animation Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 188
+        width: 532
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca18637a6a48af7b0800000000000000
+      internalID: -5189689769286270548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Futuristic Jet Damage Animation Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 110
+        width: 585
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2675ffc231d571d60800000000000000
+      internalID: 7860854011539183458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Futuristic Jet Damage Animation Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 82
+        width: 468
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c403aa0c22c618280800000000000000
+      internalID: -9042827680266178484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Futuristic Jet Damage Animation Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 173
+        width: 556
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4cd6bc0ad287e00800000000000000
+      internalID: 1042633482367255719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 912546e5ea75fc84db034cb35cde7cce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver Futuristic Jet Damage Animation Sheet_0: -5189689769286270548
+      GameOver Futuristic Jet Damage Animation Sheet_1: 7860854011539183458
+      GameOver Futuristic Jet Damage Animation Sheet_10: -4854386127197530459
+      GameOver Futuristic Jet Damage Animation Sheet_11: 1042633482367255719
+      GameOver Futuristic Jet Damage Animation Sheet_12: 1807611051536376856
+      GameOver Futuristic Jet Damage Animation Sheet_13: -7055014460386346978
+      GameOver Futuristic Jet Damage Animation Sheet_14: -7420329640345427589
+      GameOver Futuristic Jet Damage Animation Sheet_15: 2094867225478170636
+      GameOver Futuristic Jet Damage Animation Sheet_16: -1246895830922722952
+      GameOver Futuristic Jet Damage Animation Sheet_17: -2837403569054573018
+      GameOver Futuristic Jet Damage Animation Sheet_18: -5712504972632450206
+      GameOver Futuristic Jet Damage Animation Sheet_19: 4441229135559372717
+      GameOver Futuristic Jet Damage Animation Sheet_2: 5944424182764097370
+      GameOver Futuristic Jet Damage Animation Sheet_20: -3004495075366218518
+      GameOver Futuristic Jet Damage Animation Sheet_21: -3722179625769354550
+      GameOver Futuristic Jet Damage Animation Sheet_3: -9042827680266178484
+      GameOver Futuristic Jet Damage Animation Sheet_4: -6193746119768486351
+      GameOver Futuristic Jet Damage Animation Sheet_5: 6994228948051664219
+      GameOver Futuristic Jet Damage Animation Sheet_6: -8690658990451628561
+      GameOver Futuristic Jet Damage Animation Sheet_7: -6228929519683220740
+      GameOver Futuristic Jet Damage Animation Sheet_8: -8731247447090316187
+      GameOver Futuristic Jet Damage Animation Sheet_9: -2320274210073861919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

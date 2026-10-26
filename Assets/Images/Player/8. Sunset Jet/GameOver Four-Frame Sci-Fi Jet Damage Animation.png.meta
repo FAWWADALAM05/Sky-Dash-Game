@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 107bbe2ba333347468263006a0b0610c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4012701084857450958
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_0
+  - first:
+      213: -6380135429337390645
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_1
+  - first:
+      213: -2320767937622085772
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_2
+  - first:
+      213: -1380690991778623014
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_3
+  - first:
+      213: -4022335704618703463
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_4
+  - first:
+      213: 1379172657208441404
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_5
+  - first:
+      213: -2756327566136500380
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_6
+  - first:
+      213: 6466361819665107550
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_7
+  - first:
+      213: -4610745527976210474
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_8
+  - first:
+      213: 3631529261211004936
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_9
+  - first:
+      213: -8831511247902022349
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_10
+  - first:
+      213: 4922302146482412420
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_11
+  - first:
+      213: -4141595509137442534
+    second: GameOver Four-Frame Sci-Fi Jet Damage Animation_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver Four-Frame Sci-Fi Jet Damage Animation_0
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 136
+        width: 558
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3f3f9f950058c0800000000000000
+      internalID: -4012701084857450958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Sci-Fi Jet Damage Animation_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 176
+        width: 454
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f6bef4bd9facfd0800000000000000
+      internalID: -2320767937622085772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Sci-Fi Jet Damage Animation_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 155
+        width: 513
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995e4d6ecfacd28c0800000000000000
+      internalID: -4022335704618703463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Sci-Fi Jet Damage Animation_7
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 128
+        width: 525
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a894290d12db950800000000000000
+      internalID: 6466361819665107550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff853683f7b9a14469ee388abc4ba777
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_0: -4012701084857450958
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_1: -6380135429337390645
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_10: -8831511247902022349
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_11: 4922302146482412420
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_12: -4141595509137442534
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_2: -2320767937622085772
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_3: -1380690991778623014
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_4: -4022335704618703463
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_5: 1379172657208441404
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_6: -2756327566136500380
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_7: 6466361819665107550
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_8: -4610745527976210474
+      GameOver Four-Frame Sci-Fi Jet Damage Animation_9: 3631529261211004936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

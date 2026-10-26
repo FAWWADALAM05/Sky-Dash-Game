@@ -1,67 +1,101 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections;
+using CrazyGames;
 
 public class RestartGame : MonoBehaviour
 {
-    public AudioClip buttonClickSound;
-
     private static int restartCount = 0;
 
     public void Restart()
     {
         restartCount++;
 
-        AudioSource audioSource = GetComponent<AudioSource>();
+        Debug.Log(
+            "Restart button clicked. Restart count: " +
+            restartCount
+        );
 
-        if (MainMenuSettings.IsSoundEnabled() &&
-            audioSource != null &&
-            buttonClickSound != null)
-        {
-            audioSource.clip = buttonClickSound;
-            audioSource.Play();
-
-            StartCoroutine(
-                RestartAfterSound(audioSource.clip.length)
-            );
-        }
-        else
-        {
-            RestartGameNow();
-        }
-    }
-
-    private IEnumerator RestartAfterSound(float delay)
-    {
-        Time.timeScale = 1f;
-
-        yield return new WaitForSecondsRealtime(delay);
-
-        RestartGameNow();
-    }
-
-    private void RestartGameNow()
-    {
-        Time.timeScale = 1f;
-
-        // Show an interstitial every 3rd restart.
+        // Show an ad on every 3rd restart.
         if (restartCount % 3 == 0)
         {
+#if UNITY_WEBGL && !UNITY_EDITOR
+
+            Debug.Log(
+                "3rd restart reached. Showing CrazyGames Midgame Ad."
+            );
+
+            if (CrazySDK.IsAvailable &&
+                CrazySDK.IsInitialized)
+            {
+                CrazySDK.Ad.RequestAd(
+                    CrazyAdType.Midgame,
+
+                    // Ad started
+                    () =>
+                    {
+                        Debug.Log(
+                            "CrazyGames Midgame Ad started."
+                        );
+                    },
+
+                    // Ad error
+                    error =>
+                    {
+                        Debug.LogWarning(
+                            "CrazyGames Midgame Ad error: " +
+                            error
+                        );
+
+                        RestartScene();
+                    },
+
+                    // Ad finished
+                    () =>
+                    {
+                        Debug.Log(
+                            "CrazyGames Midgame Ad finished."
+                        );
+
+                        RestartScene();
+                    }
+                );
+            }
+            else
+            {
+                Debug.LogWarning(
+                    "CrazyGames SDK not ready. Restarting."
+                );
+
+                RestartScene();
+            }
+
+#else
+
             InterstitialAdsManager interstitialAds =
                 FindFirstObjectByType<InterstitialAdsManager>();
 
             if (interstitialAds != null)
             {
                 Debug.Log(
-                    "3rd restart reached. Showing Interstitial."
+                    "3rd restart reached. Showing AdMob Interstitial."
                 );
 
                 interstitialAds.ShowInterstitialAd(
                     RestartScene
                 );
-
-                return;
             }
+            else
+            {
+                Debug.LogWarning(
+                    "InterstitialAdsManager not found. Restarting."
+                );
+
+                RestartScene();
+            }
+
+#endif
+
+            return;
         }
 
         // Normal restart when no ad is needed.
@@ -72,8 +106,10 @@ public class RestartGame : MonoBehaviour
     {
         Time.timeScale = 1f;
 
+        Scene currentScene = SceneManager.GetActiveScene();
+
         SceneManager.LoadScene(
-            SceneManager.GetActiveScene().name
+            currentScene.buildIndex
         );
     }
 }

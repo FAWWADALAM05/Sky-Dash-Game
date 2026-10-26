@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: b6264f15e2eaac14fbbf9b1f8a530b95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8553986527317885826
+    second: TapFlying Four Blue Jet Animation Sprites_0
+  - first:
+      213: -7881994865787109496
+    second: TapFlying Four Blue Jet Animation Sprites_1
+  - first:
+      213: 7790087547741871261
+    second: TapFlying Four Blue Jet Animation Sprites_2
+  - first:
+      213: -291861113328987286
+    second: TapFlying Four Blue Jet Animation Sprites_3
+  - first:
+      213: -5896680791442411920
+    second: TapFlying Four Blue Jet Animation Sprites_4
+  - first:
+      213: 1342193661122905746
+    second: TapFlying Four Blue Jet Animation Sprites_5
+  - first:
+      213: 7612585291011589601
+    second: TapFlying Four Blue Jet Animation Sprites_6
+  - first:
+      213: 6802394991899552287
+    second: TapFlying Four Blue Jet Animation Sprites_7
+  - first:
+      213: -5783272371436456431
+    second: TapFlying Four Blue Jet Animation Sprites_8
+  - first:
+      213: 1467624634848471019
+    second: TapFlying Four Blue Jet Animation Sprites_9
+  - first:
+      213: 300098076601828078
+    second: TapFlying Four Blue Jet Animation Sprites_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TapFlying Four Blue Jet Animation Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 201
+        width: 492
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7db903922a4980800000000000000
+      internalID: -8553986527317885826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four Blue Jet Animation Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 199
+        width: 486
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c195cd953fb1c60800000000000000
+      internalID: 7790087547741871261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four Blue Jet Animation Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 184
+        width: 527
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e50c1d2df555a960800000000000000
+      internalID: 7612585291011589601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four Blue Jet Animation Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 175
+        width: 514
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa11a5436f66e50800000000000000
+      internalID: 6802394991899552287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5abbd9837bf7e6b488869ca98d5c9303
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TapFlying Four Blue Jet Animation Sprites_0: -8553986527317885826
+      TapFlying Four Blue Jet Animation Sprites_1: -7881994865787109496
+      TapFlying Four Blue Jet Animation Sprites_10: 300098076601828078
+      TapFlying Four Blue Jet Animation Sprites_2: 7790087547741871261
+      TapFlying Four Blue Jet Animation Sprites_3: -291861113328987286
+      TapFlying Four Blue Jet Animation Sprites_4: -5896680791442411920
+      TapFlying Four Blue Jet Animation Sprites_5: 1342193661122905746
+      TapFlying Four Blue Jet Animation Sprites_6: 7612585291011589601
+      TapFlying Four Blue Jet Animation Sprites_7: 6802394991899552287
+      TapFlying Four Blue Jet Animation Sprites_8: -5783272371436456431
+      TapFlying Four Blue Jet Animation Sprites_9: 1467624634848471019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

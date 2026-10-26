@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: ba2de9b8c810abc46b5fac8b417364c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1892964509130216534
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_0
+  - first:
+      213: 678951307825539333
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_1
+  - first:
+      213: 5100198412989256760
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_2
+  - first:
+      213: -8148939080544729152
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_3
+  - first:
+      213: -1888890874696944955
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_4
+  - first:
+      213: -2246989815386804261
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_5
+  - first:
+      213: -7147458518430570006
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_6
+  - first:
+      213: -6173138163451770765
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_7
+  - first:
+      213: 5623504508866229812
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_8
+  - first:
+      213: 6082324203106083342
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_9
+  - first:
+      213: -1873225153924593717
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_10
+  - first:
+      213: -7854641699520864668
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_11
+  - first:
+      213: -8060521699010362757
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_12
+  - first:
+      213: -2841151940320186928
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_13
+  - first:
+      213: -7238164769547371476
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_14
+  - first:
+      213: 9147858885735018490
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_15
+  - first:
+      213: -7386047511124841756
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_16
+  - first:
+      213: -2845356955352147325
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_17
+  - first:
+      213: 6337076222213480596
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_18
+  - first:
+      213: 3266628580801882567
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_19
+  - first:
+      213: -1033790197588030733
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_20
+  - first:
+      213: -6239498882904083451
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_21
+  - first:
+      213: -4530066296266712902
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_22
+  - first:
+      213: 7535706940093120663
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_23
+  - first:
+      213: -623096955565101631
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_24
+  - first:
+      213: -1581509551245898097
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_25
+  - first:
+      213: 5696975683239084608
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_26
+  - first:
+      213: -109763171170438134
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_27
+  - first:
+      213: -198349849157582019
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_28
+  - first:
+      213: -8613109493907811193
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_29
+  - first:
+      213: 4294945325331703433
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_30
+  - first:
+      213: -2525671677636897222
+    second: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 180
+        width: 511
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2fdceec6dab5e0800000000000000
+      internalID: -1892964509130216534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 196
+        width: 514
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e961e6df4bef290800000000000000
+      internalID: -7854641699520864668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 197
+        width: 525
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe2ab6039b3fe70800000000000000
+      internalID: 9147858885735018490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Green Jet Animation Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 190
+        width: 526
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79042bf3985349860800000000000000
+      internalID: 7535706940093120663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fbc6ab9c46a931448e90fdcd6284e7a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_0: -1892964509130216534
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_1: 678951307825539333
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_10: -1873225153924593717
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_11: -7854641699520864668
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_12: -8060521699010362757
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_13: -2841151940320186928
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_14: -7238164769547371476
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_15: 9147858885735018490
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_16: -7386047511124841756
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_17: -2845356955352147325
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_18: 6337076222213480596
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_19: 3266628580801882567
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_2: 5100198412989256760
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_20: -1033790197588030733
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_21: -6239498882904083451
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_22: -4530066296266712902
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_23: 7535706940093120663
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_24: -623096955565101631
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_25: -1581509551245898097
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_26: 5696975683239084608
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_27: -109763171170438134
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_28: -198349849157582019
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_29: -8613109493907811193
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_3: -8148939080544729152
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_30: 4294945325331703433
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_31: -2525671677636897222
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_4: -1888890874696944955
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_5: -2246989815386804261
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_6: -7147458518430570006
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_7: -6173138163451770765
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_8: 5623504508866229812
+      NormalFlying Four-Frame Green Jet Animation Sprite Sheet_9: 6082324203106083342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

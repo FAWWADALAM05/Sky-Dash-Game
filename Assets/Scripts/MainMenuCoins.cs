@@ -11,4 +11,10 @@ public class MainMenuCoins : MonoBehaviour
 
         totalCoinsText.text = "COINS: " + totalCoins;
     }
+    public void RefreshCoins()
+    {
+        int totalCoins = PlayerPrefs.GetInt("TotalCoins", 0);
+
+        totalCoinsText.text = "COINS: " + totalCoins;
+    }
 }

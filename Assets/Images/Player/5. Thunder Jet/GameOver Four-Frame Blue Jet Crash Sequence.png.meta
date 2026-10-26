@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: f62689c2b2fa07641be443c649aceedf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5660207844687928627
+    second: GameOver Four-Frame Blue Jet Crash Sequence_0
+  - first:
+      213: -6660405781186692275
+    second: GameOver Four-Frame Blue Jet Crash Sequence_1
+  - first:
+      213: -4230608642583028718
+    second: GameOver Four-Frame Blue Jet Crash Sequence_2
+  - first:
+      213: 3380564862068614412
+    second: GameOver Four-Frame Blue Jet Crash Sequence_3
+  - first:
+      213: 2240536160158563469
+    second: GameOver Four-Frame Blue Jet Crash Sequence_4
+  - first:
+      213: -3845177862599276209
+    second: GameOver Four-Frame Blue Jet Crash Sequence_5
+  - first:
+      213: 3859671748595158139
+    second: GameOver Four-Frame Blue Jet Crash Sequence_6
+  - first:
+      213: 2027582707234274803
+    second: GameOver Four-Frame Blue Jet Crash Sequence_7
+  - first:
+      213: -3960283086320551900
+    second: GameOver Four-Frame Blue Jet Crash Sequence_8
+  - first:
+      213: 4386820073902002749
+    second: GameOver Four-Frame Blue Jet Crash Sequence_9
+  - first:
+      213: 3638118205326136838
+    second: GameOver Four-Frame Blue Jet Crash Sequence_10
+  - first:
+      213: -17523971224175406
+    second: GameOver Four-Frame Blue Jet Crash Sequence_11
+  - first:
+      213: -7075882976532184297
+    second: GameOver Four-Frame Blue Jet Crash Sequence_12
+  - first:
+      213: -2917996303351663367
+    second: GameOver Four-Frame Blue Jet Crash Sequence_13
+  - first:
+      213: -3220363181788146620
+    second: GameOver Four-Frame Blue Jet Crash Sequence_14
+  - first:
+      213: 8688265796055925798
+    second: GameOver Four-Frame Blue Jet Crash Sequence_15
+  - first:
+      213: -6059396169034258877
+    second: GameOver Four-Frame Blue Jet Crash Sequence_16
+  - first:
+      213: 7022060107899601803
+    second: GameOver Four-Frame Blue Jet Crash Sequence_17
+  - first:
+      213: 7833783377543665882
+    second: GameOver Four-Frame Blue Jet Crash Sequence_18
+  - first:
+      213: 1624713821854321083
+    second: GameOver Four-Frame Blue Jet Crash Sequence_19
+  - first:
+      213: 1898553413457160053
+    second: GameOver Four-Frame Blue Jet Crash Sequence_20
+  - first:
+      213: 8725609120933055200
+    second: GameOver Four-Frame Blue Jet Crash Sequence_21
+  - first:
+      213: -3691977794209486832
+    second: GameOver Four-Frame Blue Jet Crash Sequence_22
+  - first:
+      213: -7785492786130973944
+    second: GameOver Four-Frame Blue Jet Crash Sequence_23
+  - first:
+      213: -5016212860789669641
+    second: GameOver Four-Frame Blue Jet Crash Sequence_24
+  - first:
+      213: -4390981088685788246
+    second: GameOver Four-Frame Blue Jet Crash Sequence_25
+  - first:
+      213: -4060142879732832769
+    second: GameOver Four-Frame Blue Jet Crash Sequence_26
+  - first:
+      213: 2121884356657234466
+    second: GameOver Four-Frame Blue Jet Crash Sequence_27
+  - first:
+      213: -6029663614606751
+    second: GameOver Four-Frame Blue Jet Crash Sequence_28
+  - first:
+      213: 4495624128325266435
+    second: GameOver Four-Frame Blue Jet Crash Sequence_29
+  - first:
+      213: 1087868249418699383
+    second: GameOver Four-Frame Blue Jet Crash Sequence_30
+  - first:
+      213: 2602419247744902483
+    second: GameOver Four-Frame Blue Jet Crash Sequence_31
+  - first:
+      213: 3362526165771977732
+    second: GameOver Four-Frame Blue Jet Crash Sequence_32
+  - first:
+      213: 1637747555661384418
+    second: GameOver Four-Frame Blue Jet Crash Sequence_33
+  - first:
+      213: 2239764843669027617
+    second: GameOver Four-Frame Blue Jet Crash Sequence_34
+  - first:
+      213: 701746049713896970
+    second: GameOver Four-Frame Blue Jet Crash Sequence_35
+  - first:
+      213: -4937763867580243275
+    second: GameOver Four-Frame Blue Jet Crash Sequence_36
+  - first:
+      213: 1144052886271545079
+    second: GameOver Four-Frame Blue Jet Crash Sequence_37
+  - first:
+      213: -7146440975445976920
+    second: GameOver Four-Frame Blue Jet Crash Sequence_38
+  - first:
+      213: -3850213754695641758
+    second: GameOver Four-Frame Blue Jet Crash Sequence_39
+  - first:
+      213: 3024281251529317610
+    second: GameOver Four-Frame Blue Jet Crash Sequence_40
+  - first:
+      213: 2026369921620556215
+    second: GameOver Four-Frame Blue Jet Crash Sequence_41
+  - first:
+      213: 772319842835515529
+    second: GameOver Four-Frame Blue Jet Crash Sequence_42
+  - first:
+      213: 5187654713625311765
+    second: GameOver Four-Frame Blue Jet Crash Sequence_43
+  - first:
+      213: 5097351407155083562
+    second: GameOver Four-Frame Blue Jet Crash Sequence_44
+  - first:
+      213: -635578772599206203
+    second: GameOver Four-Frame Blue Jet Crash Sequence_45
+  - first:
+      213: 7276664045703016121
+    second: GameOver Four-Frame Blue Jet Crash Sequence_46
+  - first:
+      213: 8120220980608497231
+    second: GameOver Four-Frame Blue Jet Crash Sequence_47
+  - first:
+      213: 9119671783878926258
+    second: GameOver Four-Frame Blue Jet Crash Sequence_48
+  - first:
+      213: -7736276521160147691
+    second: GameOver Four-Frame Blue Jet Crash Sequence_49
+  - first:
+      213: 8488724003975627798
+    second: GameOver Four-Frame Blue Jet Crash Sequence_50
+  - first:
+      213: -1645995160640031958
+    second: GameOver Four-Frame Blue Jet Crash Sequence_51
+  - first:
+      213: -3810147675119279875
+    second: GameOver Four-Frame Blue Jet Crash Sequence_52
+  - first:
+      213: 3515172508153368132
+    second: GameOver Four-Frame Blue Jet Crash Sequence_53
+  - first:
+      213: 8418809337477496914
+    second: GameOver Four-Frame Blue Jet Crash Sequence_54
+  - first:
+      213: -8418356377866631664
+    second: GameOver Four-Frame Blue Jet Crash Sequence_55
+  - first:
+      213: -7585242515633297291
+    second: GameOver Four-Frame Blue Jet Crash Sequence_56
+  - first:
+      213: -9075396096274335445
+    second: GameOver Four-Frame Blue Jet Crash Sequence_57
+  - first:
+      213: 5965006754872053393
+    second: GameOver Four-Frame Blue Jet Crash Sequence_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver Four-Frame Blue Jet Crash Sequence_17
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 169
+        width: 565
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830cc2b67e537160800000000000000
+      internalID: 7022060107899601803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Blue Jet Crash Sequence_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 207
+        width: 509
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0c417f8f54f390800000000000000
+      internalID: -7785492786130973944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Blue Jet Crash Sequence_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 201
+        width: 565
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0efabf605a1db900800000000000000
+      internalID: 701746049713896970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Blue Jet Crash Sequence_56
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 131
+        width: 469
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578ac70de1ecbb690800000000000000
+      internalID: -7585242515633297291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f6afa51bc100c734c8d9d0d55e15f1dd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver Four-Frame Blue Jet Crash Sequence_0: -5660207844687928627
+      GameOver Four-Frame Blue Jet Crash Sequence_1: -6660405781186692275
+      GameOver Four-Frame Blue Jet Crash Sequence_10: 3638118205326136838
+      GameOver Four-Frame Blue Jet Crash Sequence_11: -17523971224175406
+      GameOver Four-Frame Blue Jet Crash Sequence_12: -7075882976532184297
+      GameOver Four-Frame Blue Jet Crash Sequence_13: -2917996303351663367
+      GameOver Four-Frame Blue Jet Crash Sequence_14: -3220363181788146620
+      GameOver Four-Frame Blue Jet Crash Sequence_15: 8688265796055925798
+      GameOver Four-Frame Blue Jet Crash Sequence_16: -6059396169034258877
+      GameOver Four-Frame Blue Jet Crash Sequence_17: 7022060107899601803
+      GameOver Four-Frame Blue Jet Crash Sequence_18: 7833783377543665882
+      GameOver Four-Frame Blue Jet Crash Sequence_19: 1624713821854321083
+      GameOver Four-Frame Blue Jet Crash Sequence_2: -4230608642583028718
+      GameOver Four-Frame Blue Jet Crash Sequence_20: 1898553413457160053
+      GameOver Four-Frame Blue Jet Crash Sequence_21: 8725609120933055200
+      GameOver Four-Frame Blue Jet Crash Sequence_22: -3691977794209486832
+      GameOver Four-Frame Blue Jet Crash Sequence_23: -7785492786130973944
+      GameOver Four-Frame Blue Jet Crash Sequence_24: -5016212860789669641
+      GameOver Four-Frame Blue Jet Crash Sequence_25: -4390981088685788246
+      GameOver Four-Frame Blue Jet Crash Sequence_26: -4060142879732832769
+      GameOver Four-Frame Blue Jet Crash Sequence_27: 2121884356657234466
+      GameOver Four-Frame Blue Jet Crash Sequence_28: -6029663614606751
+      GameOver Four-Frame Blue Jet Crash Sequence_29: 4495624128325266435
+      GameOver Four-Frame Blue Jet Crash Sequence_3: 3380564862068614412
+      GameOver Four-Frame Blue Jet Crash Sequence_30: 1087868249418699383
+      GameOver Four-Frame Blue Jet Crash Sequence_31: 2602419247744902483
+      GameOver Four-Frame Blue Jet Crash Sequence_32: 3362526165771977732
+      GameOver Four-Frame Blue Jet Crash Sequence_33: 1637747555661384418
+      GameOver Four-Frame Blue Jet Crash Sequence_34: 2239764843669027617
+      GameOver Four-Frame Blue Jet Crash Sequence_35: 701746049713896970
+      GameOver Four-Frame Blue Jet Crash Sequence_36: -4937763867580243275
+      GameOver Four-Frame Blue Jet Crash Sequence_37: 1144052886271545079
+      GameOver Four-Frame Blue Jet Crash Sequence_38: -7146440975445976920
+      GameOver Four-Frame Blue Jet Crash Sequence_39: -3850213754695641758
+      GameOver Four-Frame Blue Jet Crash Sequence_4: 2240536160158563469
+      GameOver Four-Frame Blue Jet Crash Sequence_40: 3024281251529317610
+      GameOver Four-Frame Blue Jet Crash Sequence_41: 2026369921620556215
+      GameOver Four-Frame Blue Jet Crash Sequence_42: 772319842835515529
+      GameOver Four-Frame Blue Jet Crash Sequence_43: 5187654713625311765
+      GameOver Four-Frame Blue Jet Crash Sequence_44: 5097351407155083562
+      GameOver Four-Frame Blue Jet Crash Sequence_45: -635578772599206203
+      GameOver Four-Frame Blue Jet Crash Sequence_46: 7276664045703016121
+      GameOver Four-Frame Blue Jet Crash Sequence_47: 8120220980608497231
+      GameOver Four-Frame Blue Jet Crash Sequence_48: 9119671783878926258
+      GameOver Four-Frame Blue Jet Crash Sequence_49: -7736276521160147691
+      GameOver Four-Frame Blue Jet Crash Sequence_5: -3845177862599276209
+      GameOver Four-Frame Blue Jet Crash Sequence_50: 8488724003975627798
+      GameOver Four-Frame Blue Jet Crash Sequence_51: -1645995160640031958
+      GameOver Four-Frame Blue Jet Crash Sequence_52: -3810147675119279875
+      GameOver Four-Frame Blue Jet Crash Sequence_53: 3515172508153368132
+      GameOver Four-Frame Blue Jet Crash Sequence_54: 8418809337477496914
+      GameOver Four-Frame Blue Jet Crash Sequence_55: -8418356377866631664
+      GameOver Four-Frame Blue Jet Crash Sequence_56: -7585242515633297291
+      GameOver Four-Frame Blue Jet Crash Sequence_57: -9075396096274335445
+      GameOver Four-Frame Blue Jet Crash Sequence_58: 5965006754872053393
+      GameOver Four-Frame Blue Jet Crash Sequence_6: 3859671748595158139
+      GameOver Four-Frame Blue Jet Crash Sequence_7: 2027582707234274803
+      GameOver Four-Frame Blue Jet Crash Sequence_8: -3960283086320551900
+      GameOver Four-Frame Blue Jet Crash Sequence_9: 4386820073902002749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

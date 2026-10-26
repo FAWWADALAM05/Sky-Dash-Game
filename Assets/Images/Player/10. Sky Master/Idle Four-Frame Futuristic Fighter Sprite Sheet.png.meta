@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 932be48802810294ea1be6d787cf7ba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3748929511589971036
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_0
+  - first:
+      213: 3204586646337431903
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_1
+  - first:
+      213: 7464538739209856624
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_2
+  - first:
+      213: -4011971240779103274
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_3
+  - first:
+      213: 3704902390750611835
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_4
+  - first:
+      213: -4179253170584143791
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_5
+  - first:
+      213: 935379821724723525
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_6
+  - first:
+      213: 3030042984815153789
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_7
+  - first:
+      213: -7700366610155173561
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_8
+  - first:
+      213: 8491825909941513567
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_9
+  - first:
+      213: 3539009698101783085
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_10
+  - first:
+      213: 2230884511219375413
+    second: Idle Four-Frame Futuristic Fighter Sprite Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Fighter Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 451
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab73bdc87029fbc0800000000000000
+      internalID: -3748929511589971036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Fighter Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 198
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5208717, y: 0.42335424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5927e2839af87c20800000000000000
+      internalID: 3204586646337431903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Fighter Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 199
+        width: 487
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076eeba3f6e579760800000000000000
+      internalID: 7464538739209856624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Fighter Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 218
+        width: 469
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d34740b96d9258c0800000000000000
+      internalID: -4011971240779103274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2ac515829ca5cd644bf86ff52f158b76
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_0: -3748929511589971036
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_1: 3204586646337431903
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_10: 3539009698101783085
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_11: 2230884511219375413
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_2: 7464538739209856624
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_3: -4011971240779103274
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_4: 3704902390750611835
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_5: -4179253170584143791
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_6: 935379821724723525
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_7: 3030042984815153789
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_8: -7700366610155173561
+      Idle Four-Frame Futuristic Fighter Sprite Sheet_9: 8491825909941513567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

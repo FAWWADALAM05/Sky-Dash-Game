@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: e7be20c0a5b74ad4db21ed705effb195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3998229265613585134
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_0
+  - first:
+      213: -3902997890288782322
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_1
+  - first:
+      213: -7525191277278059705
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_2
+  - first:
+      213: 8367019657618645076
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_3
+  - first:
+      213: 4489451765533877709
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_4
+  - first:
+      213: -2977054392245390191
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_5
+  - first:
+      213: 6616905286996421781
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_6
+  - first:
+      213: -7039230717804351077
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_7
+  - first:
+      213: -6756882820000336739
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_8
+  - first:
+      213: 105871585685221523
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_9
+  - first:
+      213: 6555756834117460719
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_10
+  - first:
+      213: 3622321106097651465
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_11
+  - first:
+      213: 5575624866255147087
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_12
+  - first:
+      213: 830653832930614429
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_13
+  - first:
+      213: 5558910500893841408
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_14
+  - first:
+      213: 1029490184396045701
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_15
+  - first:
+      213: 6165672207666948675
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_16
+  - first:
+      213: 139432306197744154
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_17
+  - first:
+      213: 1682875504471693179
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_18
+  - first:
+      213: 4381064514801993942
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_19
+  - first:
+      213: 7625733751758014984
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_20
+  - first:
+      213: 5796781070864391926
+    second: Idle Four Blue-and-White Futuristic Jet Sprites_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Four Blue-and-White Futuristic Jet Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 554
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215088c9aaf6388c0800000000000000
+      internalID: -3998229265613585134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four Blue-and-White Futuristic Jet Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 169
+        width: 537
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4019f16649906d40800000000000000
+      internalID: 5575624866255147087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four Blue-and-White Futuristic Jet Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 165
+        width: 544
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c55239243178b00800000000000000
+      internalID: 830653832930614429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four Blue-and-White Futuristic Jet Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 168
+        width: 530
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aac7ba43ed09550800000000000000
+      internalID: 6165672207666948675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a1cacbf2018e8140a196acee7f42a14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Idle Four Blue-and-White Futuristic Jet Sprites_0: -3998229265613585134
+      Idle Four Blue-and-White Futuristic Jet Sprites_1: -3902997890288782322
+      Idle Four Blue-and-White Futuristic Jet Sprites_10: 6555756834117460719
+      Idle Four Blue-and-White Futuristic Jet Sprites_11: 3622321106097651465
+      Idle Four Blue-and-White Futuristic Jet Sprites_12: 5575624866255147087
+      Idle Four Blue-and-White Futuristic Jet Sprites_13: 830653832930614429
+      Idle Four Blue-and-White Futuristic Jet Sprites_14: 5558910500893841408
+      Idle Four Blue-and-White Futuristic Jet Sprites_15: 1029490184396045701
+      Idle Four Blue-and-White Futuristic Jet Sprites_16: 6165672207666948675
+      Idle Four Blue-and-White Futuristic Jet Sprites_17: 139432306197744154
+      Idle Four Blue-and-White Futuristic Jet Sprites_18: 1682875504471693179
+      Idle Four Blue-and-White Futuristic Jet Sprites_19: 4381064514801993942
+      Idle Four Blue-and-White Futuristic Jet Sprites_2: -7525191277278059705
+      Idle Four Blue-and-White Futuristic Jet Sprites_20: 7625733751758014984
+      Idle Four Blue-and-White Futuristic Jet Sprites_21: 5796781070864391926
+      Idle Four Blue-and-White Futuristic Jet Sprites_22: -1207781771
+      Idle Four Blue-and-White Futuristic Jet Sprites_3: 8367019657618645076
+      Idle Four Blue-and-White Futuristic Jet Sprites_4: 4489451765533877709
+      Idle Four Blue-and-White Futuristic Jet Sprites_5: -2977054392245390191
+      Idle Four Blue-and-White Futuristic Jet Sprites_6: 6616905286996421781
+      Idle Four Blue-and-White Futuristic Jet Sprites_7: -7039230717804351077
+      Idle Four Blue-and-White Futuristic Jet Sprites_8: -6756882820000336739
+      Idle Four Blue-and-White Futuristic Jet Sprites_9: 105871585685221523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

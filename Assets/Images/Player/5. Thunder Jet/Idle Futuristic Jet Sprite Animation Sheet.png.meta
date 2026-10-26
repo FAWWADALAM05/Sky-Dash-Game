@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: e976a12030c1eb54cadc8225ca0adcfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8815258833753877501
+    second: Idle Futuristic Jet Sprite Animation Sheet_0
+  - first:
+      213: -7902840316075461649
+    second: Idle Futuristic Jet Sprite Animation Sheet_1
+  - first:
+      213: -748226091199779689
+    second: Idle Futuristic Jet Sprite Animation Sheet_2
+  - first:
+      213: -954840850914650658
+    second: Idle Futuristic Jet Sprite Animation Sheet_3
+  - first:
+      213: -6242682560634294870
+    second: Idle Futuristic Jet Sprite Animation Sheet_4
+  - first:
+      213: -5580143751444257241
+    second: Idle Futuristic Jet Sprite Animation Sheet_5
+  - first:
+      213: 5373879739471077771
+    second: Idle Futuristic Jet Sprite Animation Sheet_6
+  - first:
+      213: -5928453216218652652
+    second: Idle Futuristic Jet Sprite Animation Sheet_7
+  - first:
+      213: -2765353228580383235
+    second: Idle Futuristic Jet Sprite Animation Sheet_8
+  - first:
+      213: -9062423278187815230
+    second: Idle Futuristic Jet Sprite Animation Sheet_9
+  - first:
+      213: 8831357852824564244
+    second: Idle Futuristic Jet Sprite Animation Sheet_10
+  - first:
+      213: 5620257365676067140
+    second: Idle Futuristic Jet Sprite Animation Sheet_11
+  - first:
+      213: 7984943146520034890
+    second: Idle Futuristic Jet Sprite Animation Sheet_12
+  - first:
+      213: 5354335282269744117
+    second: Idle Futuristic Jet Sprite Animation Sheet_13
+  - first:
+      213: -5607487705266826584
+    second: Idle Futuristic Jet Sprite Animation Sheet_14
+  - first:
+      213: 4358416912050370873
+    second: Idle Futuristic Jet Sprite Animation Sheet_15
+  - first:
+      213: 5835737534423135295
+    second: Idle Futuristic Jet Sprite Animation Sheet_16
+  - first:
+      213: 3678318834789657182
+    second: Idle Futuristic Jet Sprite Animation Sheet_17
+  - first:
+      213: 5832227828217908405
+    second: Idle Futuristic Jet Sprite Animation Sheet_18
+  - first:
+      213: 9173661979636433360
+    second: Idle Futuristic Jet Sprite Animation Sheet_19
+  - first:
+      213: 8067744166003624084
+    second: Idle Futuristic Jet Sprite Animation Sheet_20
+  - first:
+      213: -6122747184010955318
+    second: Idle Futuristic Jet Sprite Animation Sheet_21
+  - first:
+      213: -3100003477909654468
+    second: Idle Futuristic Jet Sprite Animation Sheet_22
+  - first:
+      213: -1262809649542348381
+    second: Idle Futuristic Jet Sprite Animation Sheet_23
+  - first:
+      213: 7604256997333466848
+    second: Idle Futuristic Jet Sprite Animation Sheet_24
+  - first:
+      213: -1667857145943569742
+    second: Idle Futuristic Jet Sprite Animation Sheet_25
+  - first:
+      213: -2728046917964168985
+    second: Idle Futuristic Jet Sprite Animation Sheet_26
+  - first:
+      213: -5449596070244801819
+    second: Idle Futuristic Jet Sprite Animation Sheet_27
+  - first:
+      213: 6635946427951625360
+    second: Idle Futuristic Jet Sprite Animation Sheet_28
+  - first:
+      213: -4723876122990339083
+    second: Idle Futuristic Jet Sprite Animation Sheet_29
+  - first:
+      213: 1777392425125638413
+    second: Idle Futuristic Jet Sprite Animation Sheet_30
+  - first:
+      213: 4984227011426044285
+    second: Idle Futuristic Jet Sprite Animation Sheet_31
+  - first:
+      213: -8334907768157608921
+    second: Idle Futuristic Jet Sprite Animation Sheet_32
+  - first:
+      213: -8562834329258258959
+    second: Idle Futuristic Jet Sprite Animation Sheet_33
+  - first:
+      213: 1842086150595915181
+    second: Idle Futuristic Jet Sprite Animation Sheet_34
+  - first:
+      213: -2375443151859440090
+    second: Idle Futuristic Jet Sprite Animation Sheet_35
+  - first:
+      213: 2076381803508064202
+    second: Idle Futuristic Jet Sprite Animation Sheet_36
+  - first:
+      213: -4498126387811389625
+    second: Idle Futuristic Jet Sprite Animation Sheet_37
+  - first:
+      213: -6586277699815764325
+    second: Idle Futuristic Jet Sprite Animation Sheet_38
+  - first:
+      213: 5444008214355381928
+    second: Idle Futuristic Jet Sprite Animation Sheet_39
+  - first:
+      213: 160939993970431231
+    second: Idle Futuristic Jet Sprite Animation Sheet_40
+  - first:
+      213: 605975848677943318
+    second: Idle Futuristic Jet Sprite Animation Sheet_41
+  - first:
+      213: 1320795255922148951
+    second: Idle Futuristic Jet Sprite Animation Sheet_42
+  - first:
+      213: 3834024267774197445
+    second: Idle Futuristic Jet Sprite Animation Sheet_43
+  - first:
+      213: 7625185927279536488
+    second: Idle Futuristic Jet Sprite Animation Sheet_44
+  - first:
+      213: -6221458021538845577
+    second: Idle Futuristic Jet Sprite Animation Sheet_45
+  - first:
+      213: -5365538670428742511
+    second: Idle Futuristic Jet Sprite Animation Sheet_46
+  - first:
+      213: -9011760330994919791
+    second: Idle Futuristic Jet Sprite Animation Sheet_47
+  - first:
+      213: 9169766777564303614
+    second: Idle Futuristic Jet Sprite Animation Sheet_48
+  - first:
+      213: 5618899960426075429
+    second: Idle Futuristic Jet Sprite Animation Sheet_49
+  - first:
+      213: -4068300174738723809
+    second: Idle Futuristic Jet Sprite Animation Sheet_50
+  - first:
+      213: 2642434975520279920
+    second: Idle Futuristic Jet Sprite Animation Sheet_51
+  - first:
+      213: 9082036318411404139
+    second: Idle Futuristic Jet Sprite Animation Sheet_52
+  - first:
+      213: -481909646640588166
+    second: Idle Futuristic Jet Sprite Animation Sheet_53
+  - first:
+      213: 7252256401641869971
+    second: Idle Futuristic Jet Sprite Animation Sheet_54
+  - first:
+      213: -192242842536954619
+    second: Idle Futuristic Jet Sprite Animation Sheet_55
+  - first:
+      213: -8232422018188287227
+    second: Idle Futuristic Jet Sprite Animation Sheet_56
+  - first:
+      213: -7814007431628759532
+    second: Idle Futuristic Jet Sprite Animation Sheet_57
+  - first:
+      213: 349979123013001795
+    second: Idle Futuristic Jet Sprite Animation Sheet_58
+  - first:
+      213: 2980472765478965984
+    second: Idle Futuristic Jet Sprite Animation Sheet_59
+  - first:
+      213: -4327371537984659484
+    second: Idle Futuristic Jet Sprite Animation Sheet_60
+  - first:
+      213: -8016097820012257645
+    second: Idle Futuristic Jet Sprite Animation Sheet_61
+  - first:
+      213: -8173816155828717325
+    second: Idle Futuristic Jet Sprite Animation Sheet_62
+  - first:
+      213: 3690673748308525622
+    second: Idle Futuristic Jet Sprite Animation Sheet_63
+  - first:
+      213: 4134029641700507196
+    second: Idle Futuristic Jet Sprite Animation Sheet_64
+  - first:
+      213: 1682733980011126030
+    second: Idle Futuristic Jet Sprite Animation Sheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Futuristic Jet Sprite Animation Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 197
+        width: 537
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d9f2cbc8e9a580800000000000000
+      internalID: -8815258833753877501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Futuristic Jet Sprite Animation Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 194
+        width: 521
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81a7d8a62bd39a40800000000000000
+      internalID: 5373879739471077771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Futuristic Jet Sprite Animation Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 190
+        width: 524
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410e3cbc537e9bda0800000000000000
+      internalID: -5928453216218652652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Futuristic Jet Sprite Animation Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 193
+        width: 545
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df59cfbd3ed7f99d0800000000000000
+      internalID: -2765353228580383235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9fdea06e5fb2b94a9f2d1c947385e40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Futuristic Jet Sprite Animation Sheet_0: -8815258833753877501
+      Idle Futuristic Jet Sprite Animation Sheet_1: -7902840316075461649
+      Idle Futuristic Jet Sprite Animation Sheet_10: 8831357852824564244
+      Idle Futuristic Jet Sprite Animation Sheet_11: 5620257365676067140
+      Idle Futuristic Jet Sprite Animation Sheet_12: 7984943146520034890
+      Idle Futuristic Jet Sprite Animation Sheet_13: 5354335282269744117
+      Idle Futuristic Jet Sprite Animation Sheet_14: -5607487705266826584
+      Idle Futuristic Jet Sprite Animation Sheet_15: 4358416912050370873
+      Idle Futuristic Jet Sprite Animation Sheet_16: 5835737534423135295
+      Idle Futuristic Jet Sprite Animation Sheet_17: 3678318834789657182
+      Idle Futuristic Jet Sprite Animation Sheet_18: 5832227828217908405
+      Idle Futuristic Jet Sprite Animation Sheet_19: 9173661979636433360
+      Idle Futuristic Jet Sprite Animation Sheet_2: -748226091199779689
+      Idle Futuristic Jet Sprite Animation Sheet_20: 8067744166003624084
+      Idle Futuristic Jet Sprite Animation Sheet_21: -6122747184010955318
+      Idle Futuristic Jet Sprite Animation Sheet_22: -3100003477909654468
+      Idle Futuristic Jet Sprite Animation Sheet_23: -1262809649542348381
+      Idle Futuristic Jet Sprite Animation Sheet_24: 7604256997333466848
+      Idle Futuristic Jet Sprite Animation Sheet_25: -1667857145943569742
+      Idle Futuristic Jet Sprite Animation Sheet_26: -2728046917964168985
+      Idle Futuristic Jet Sprite Animation Sheet_27: -5449596070244801819
+      Idle Futuristic Jet Sprite Animation Sheet_28: 6635946427951625360
+      Idle Futuristic Jet Sprite Animation Sheet_29: -4723876122990339083
+      Idle Futuristic Jet Sprite Animation Sheet_3: -954840850914650658
+      Idle Futuristic Jet Sprite Animation Sheet_30: 1777392425125638413
+      Idle Futuristic Jet Sprite Animation Sheet_31: 4984227011426044285
+      Idle Futuristic Jet Sprite Animation Sheet_32: -8334907768157608921
+      Idle Futuristic Jet Sprite Animation Sheet_33: -8562834329258258959
+      Idle Futuristic Jet Sprite Animation Sheet_34: 1842086150595915181
+      Idle Futuristic Jet Sprite Animation Sheet_35: -2375443151859440090
+      Idle Futuristic Jet Sprite Animation Sheet_36: 2076381803508064202
+      Idle Futuristic Jet Sprite Animation Sheet_37: -4498126387811389625
+      Idle Futuristic Jet Sprite Animation Sheet_38: -6586277699815764325
+      Idle Futuristic Jet Sprite Animation Sheet_39: 5444008214355381928
+      Idle Futuristic Jet Sprite Animation Sheet_4: -6242682560634294870
+      Idle Futuristic Jet Sprite Animation Sheet_40: 160939993970431231
+      Idle Futuristic Jet Sprite Animation Sheet_41: 605975848677943318
+      Idle Futuristic Jet Sprite Animation Sheet_42: 1320795255922148951
+      Idle Futuristic Jet Sprite Animation Sheet_43: 3834024267774197445
+      Idle Futuristic Jet Sprite Animation Sheet_44: 7625185927279536488
+      Idle Futuristic Jet Sprite Animation Sheet_45: -6221458021538845577
+      Idle Futuristic Jet Sprite Animation Sheet_46: -5365538670428742511
+      Idle Futuristic Jet Sprite Animation Sheet_47: -9011760330994919791
+      Idle Futuristic Jet Sprite Animation Sheet_48: 9169766777564303614
+      Idle Futuristic Jet Sprite Animation Sheet_49: 5618899960426075429
+      Idle Futuristic Jet Sprite Animation Sheet_5: -5580143751444257241
+      Idle Futuristic Jet Sprite Animation Sheet_50: -4068300174738723809
+      Idle Futuristic Jet Sprite Animation Sheet_51: 2642434975520279920
+      Idle Futuristic Jet Sprite Animation Sheet_52: 9082036318411404139
+      Idle Futuristic Jet Sprite Animation Sheet_53: -481909646640588166
+      Idle Futuristic Jet Sprite Animation Sheet_54: 7252256401641869971
+      Idle Futuristic Jet Sprite Animation Sheet_55: -192242842536954619
+      Idle Futuristic Jet Sprite Animation Sheet_56: -8232422018188287227
+      Idle Futuristic Jet Sprite Animation Sheet_57: -7814007431628759532
+      Idle Futuristic Jet Sprite Animation Sheet_58: 349979123013001795
+      Idle Futuristic Jet Sprite Animation Sheet_59: 2980472765478965984
+      Idle Futuristic Jet Sprite Animation Sheet_6: 5373879739471077771
+      Idle Futuristic Jet Sprite Animation Sheet_60: -4327371537984659484
+      Idle Futuristic Jet Sprite Animation Sheet_61: -8016097820012257645
+      Idle Futuristic Jet Sprite Animation Sheet_62: -8173816155828717325
+      Idle Futuristic Jet Sprite Animation Sheet_63: 3690673748308525622
+      Idle Futuristic Jet Sprite Animation Sheet_64: 4134029641700507196
+      Idle Futuristic Jet Sprite Animation Sheet_65: 1682733980011126030
+      Idle Futuristic Jet Sprite Animation Sheet_7: -5928453216218652652
+      Idle Futuristic Jet Sprite Animation Sheet_8: -2765353228580383235
+      Idle Futuristic Jet Sprite Animation Sheet_9: -9062423278187815230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

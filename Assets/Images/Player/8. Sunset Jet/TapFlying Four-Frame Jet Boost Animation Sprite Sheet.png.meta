@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: affc6a715377b1b4db047007584011f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3464943775678762558
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_0
+  - first:
+      213: -2399779562160837502
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_1
+  - first:
+      213: -6914201845239773375
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_2
+  - first:
+      213: 7071875138871666765
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_3
+  - first:
+      213: 4900271274359507091
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_4
+  - first:
+      213: 7491630170451257383
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_5
+  - first:
+      213: 4661351377731766034
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_6
+  - first:
+      213: -8178976130908234433
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_7
+  - first:
+      213: -8552133425762353225
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_8
+  - first:
+      213: -2966639628533808464
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_9
+  - first:
+      213: 6068308553779383629
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_10
+  - first:
+      213: -7161536685099597640
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_11
+  - first:
+      213: -1056114675395639944
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_12
+  - first:
+      213: 2337451539859434810
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_13
+  - first:
+      213: -6230820631805973997
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_14
+  - first:
+      213: -7595348860339014782
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_15
+  - first:
+      213: 6371017455121431157
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_16
+  - first:
+      213: 3392742838419386078
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_17
+  - first:
+      213: -796305210134207795
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_18
+  - first:
+      213: 1067839002891346811
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_19
+  - first:
+      213: -7915159714079211128
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_20
+  - first:
+      213: 4380971178283922856
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_21
+  - first:
+      213: -3653038505676286037
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_22
+  - first:
+      213: 3451494807559830667
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_23
+  - first:
+      213: 6987076259319781234
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_24
+  - first:
+      213: 4623788402879110248
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_25
+  - first:
+      213: 3505987346557193036
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_26
+  - first:
+      213: 813512631495586623
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_27
+  - first:
+      213: -2351510849917872954
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_28
+  - first:
+      213: 5572873645941993740
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_29
+  - first:
+      213: -1761876652596081907
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_30
+  - first:
+      213: 9199132082227040031
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_31
+  - first:
+      213: 4256979973588767260
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_32
+  - first:
+      213: 8918242875146396914
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_33
+  - first:
+      213: 3891968882451969176
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_34
+  - first:
+      213: 341717091876386511
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_35
+  - first:
+      213: -1220378745967713132
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_36
+  - first:
+      213: 6964244620437759964
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_37
+  - first:
+      213: 6406447443956492522
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_38
+  - first:
+      213: 8594677839024673752
+    second: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 207
+        width: 474
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c177fb7efb0aefc0800000000000000
+      internalID: -3464943775678762558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 220
+        width: 472
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c292ae33542bed0800000000000000
+      internalID: -2399779562160837502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 197
+        width: 476
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14702250e02db00a0800000000000000
+      internalID: -6914201845239773375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Jet Boost Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 140
+        width: 468
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ac5c68f8542260800000000000000
+      internalID: 7071875138871666765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc575c1966dcdde49ace0243aaf6ac08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_0: -3464943775678762558
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_1: -2399779562160837502
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_10: 6068308553779383629
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_11: -7161536685099597640
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_12: -1056114675395639944
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_13: 2337451539859434810
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_14: -6230820631805973997
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_15: -7595348860339014782
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_16: 6371017455121431157
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_17: 3392742838419386078
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_18: -796305210134207795
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_19: 1067839002891346811
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_2: -6914201845239773375
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_20: -7915159714079211128
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_21: 4380971178283922856
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_22: -3653038505676286037
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_23: 3451494807559830667
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_24: 6987076259319781234
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_25: 4623788402879110248
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_26: 3505987346557193036
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_27: 813512631495586623
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_28: -2351510849917872954
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_29: 5572873645941993740
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_3: 7071875138871666765
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_30: -1761876652596081907
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_31: 9199132082227040031
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_32: 4256979973588767260
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_33: 8918242875146396914
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_34: 3891968882451969176
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_35: 341717091876386511
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_36: -1220378745967713132
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_37: 6964244620437759964
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_38: 6406447443956492522
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_39: 8594677839024673752
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_4: 4900271274359507091
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_5: 7491630170451257383
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_6: 4661351377731766034
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_7: -8178976130908234433
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_8: -8552133425762353225
+      TapFlying Four-Frame Jet Boost Animation Sprite Sheet_9: -2966639628533808464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

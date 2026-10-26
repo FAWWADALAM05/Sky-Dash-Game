@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: a43d27139df9d2344a5aa45db542bc73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4090643372186163314
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_0
+  - first:
+      213: -8731463694327814585
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_1
+  - first:
+      213: 5978823353672433978
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_2
+  - first:
+      213: 3760873020625329654
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_3
+  - first:
+      213: 8781392558849074766
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_4
+  - first:
+      213: 5000884660087532606
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_5
+  - first:
+      213: 736113571977387148
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_6
+  - first:
+      213: -7679287099259238593
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_7
+  - first:
+      213: -7485316290149656350
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_8
+  - first:
+      213: -3646321064713774588
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_9
+  - first:
+      213: 6421144285788021613
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_10
+  - first:
+      213: 9012795435292410296
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_11
+  - first:
+      213: 7212110005919683287
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_12
+  - first:
+      213: 6330062340364131157
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_13
+  - first:
+      213: -6582031180591783961
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_14
+  - first:
+      213: 6052385631130897494
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_15
+  - first:
+      213: 1128566569552919518
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_16
+  - first:
+      213: -4476615226151255904
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_17
+  - first:
+      213: 4430583678903847848
+    second: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 201
+        width: 532
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a902b68d1b37c0800000000000000
+      internalID: -4090643372186163314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 205
+        width: 486
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746ee52080c93d680800000000000000
+      internalID: -8731463694327814585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 554
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462577a106cdd970800000000000000
+      internalID: 8781392558849074766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 175
+        width: 563
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca73f3a16b66540800000000000000
+      internalID: 5000884660087532606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64ff7f256a05ed240aeee7dad97c7573
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_0: -4090643372186163314
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_1: -8731463694327814585
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_10: 6421144285788021613
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_11: 9012795435292410296
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_12: 7212110005919683287
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_13: 6330062340364131157
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_14: -6582031180591783961
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_15: 6052385631130897494
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_16: 1128566569552919518
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_17: -4476615226151255904
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_18: 4430583678903847848
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_2: 5978823353672433978
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_3: 3760873020625329654
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_4: 8781392558849074766
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_5: 5000884660087532606
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_6: 736113571977387148
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_7: -7679287099259238593
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_8: -7485316290149656350
+      TapFlying Four-Frame Boosting Sci-Fi Jet Sprite Sheet_9: -3646321064713774588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

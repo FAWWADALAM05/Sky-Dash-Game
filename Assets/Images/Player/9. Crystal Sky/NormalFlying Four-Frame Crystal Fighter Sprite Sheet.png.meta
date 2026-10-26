@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 7a914d04c6f3b9e46b49f6257eb79d41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1931736397749816616
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_0
+  - first:
+      213: 5219110204783794132
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_1
+  - first:
+      213: 591125608842526043
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_2
+  - first:
+      213: -3916553294275608044
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_3
+  - first:
+      213: -5091818387849942912
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_4
+  - first:
+      213: -7106691981825004803
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_5
+  - first:
+      213: -9119117482575827895
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_6
+  - first:
+      213: 6271651875544605032
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_7
+  - first:
+      213: -7191869898582223838
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_8
+  - first:
+      213: -4537581120595510645
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_9
+  - first:
+      213: 587539923715155476
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_10
+  - first:
+      213: -2118539847408171920
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_11
+  - first:
+      213: -5673060608344086789
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_12
+  - first:
+      213: 2002218730016355767
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_13
+  - first:
+      213: -947301255202939763
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_14
+  - first:
+      213: 390540945109255378
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_15
+  - first:
+      213: 4340141971109270991
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_16
+  - first:
+      213: -8501818999379164728
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_17
+  - first:
+      213: -2016738646073870092
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_18
+  - first:
+      213: 8768898998608379649
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_19
+  - first:
+      213: 2423476895370134156
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_20
+  - first:
+      213: -3394670260722270875
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_21
+  - first:
+      213: 6299858875597191956
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_22
+  - first:
+      213: 722817442291356304
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_23
+  - first:
+      213: 4449966025055831918
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_24
+  - first:
+      213: 268303922414065619
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_25
+  - first:
+      213: -890588607964887921
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_26
+  - first:
+      213: -1059693656562700551
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_27
+  - first:
+      213: -4245875663025859517
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_28
+  - first:
+      213: -4880286790022388408
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_29
+  - first:
+      213: -6186156555093459360
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_30
+  - first:
+      213: 465162187449987558
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_31
+  - first:
+      213: -7782564329123465857
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_32
+  - first:
+      213: 7499788207048897967
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_33
+  - first:
+      213: 2496061142303063720
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_34
+  - first:
+      213: -2257807982648753287
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_35
+  - first:
+      213: -685393011128930459
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_36
+  - first:
+      213: -138270150885177081
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_37
+  - first:
+      213: 299282661543452093
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_38
+  - first:
+      213: 6256725118906025804
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_39
+  - first:
+      213: 4548348335764226855
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_40
+  - first:
+      213: 3869147441908646343
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_41
+  - first:
+      213: 6345754981942366836
+    second: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 535
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d029bd408eeca10800000000000000
+      internalID: 1931736397749816616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 143
+        width: 523
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ab26f03064701c0800000000000000
+      internalID: -4537581120595510645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 149
+        width: 530
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416e66c927c572800800000000000000
+      internalID: 587539923715155476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalFlying Four-Frame Crystal Fighter Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 134
+        width: 490
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074c9b8bb3f6992e0800000000000000
+      internalID: -2118539847408171920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc7afe48ff4e7304f8162f1aec23562a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_0: 1931736397749816616
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_1: 5219110204783794132
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_10: 587539923715155476
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_11: -2118539847408171920
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_12: -5673060608344086789
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_13: 2002218730016355767
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_14: -947301255202939763
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_15: 390540945109255378
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_16: 4340141971109270991
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_17: -8501818999379164728
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_18: -2016738646073870092
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_19: 8768898998608379649
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_2: 591125608842526043
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_20: 2423476895370134156
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_21: -3394670260722270875
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_22: 6299858875597191956
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_23: 722817442291356304
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_24: 4449966025055831918
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_25: 268303922414065619
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_26: -890588607964887921
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_27: -1059693656562700551
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_28: -4245875663025859517
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_29: -4880286790022388408
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_3: -3916553294275608044
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_30: -6186156555093459360
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_31: 465162187449987558
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_32: -7782564329123465857
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_33: 7499788207048897967
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_34: 2496061142303063720
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_35: -2257807982648753287
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_36: -685393011128930459
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_37: -138270150885177081
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_38: 299282661543452093
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_39: 6256725118906025804
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_4: -5091818387849942912
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_40: 4548348335764226855
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_41: 3869147441908646343
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_42: 6345754981942366836
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_5: -7106691981825004803
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_6: -9119117482575827895
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_7: 6271651875544605032
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_8: -7191869898582223838
+      NormalFlying Four-Frame Crystal Fighter Sprite Sheet_9: -4537581120595510645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

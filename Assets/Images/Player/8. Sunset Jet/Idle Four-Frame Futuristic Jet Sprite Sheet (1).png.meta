@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: d2da4c15150b1404c98adf3b4594cf0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1173956750176887837
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_0
+  - first:
+      213: -1256500450911750812
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_1
+  - first:
+      213: 3443605223978610488
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_2
+  - first:
+      213: -6957846768666043572
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_3
+  - first:
+      213: 7098449973105934195
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_4
+  - first:
+      213: 9091922975852822566
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_5
+  - first:
+      213: 318974827506887579
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_6
+  - first:
+      213: 4044338603049824483
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_7
+  - first:
+      213: 4227282525439583139
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_8
+  - first:
+      213: 7693536369822110206
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_9
+  - first:
+      213: 4184383375167314945
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_10
+  - first:
+      213: 7153597784332438639
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_11
+  - first:
+      213: 4366814002954160630
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_12
+  - first:
+      213: 5837657254698960010
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_13
+  - first:
+      213: 3932337549723201396
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_14
+  - first:
+      213: -5948824723928983139
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_15
+  - first:
+      213: -7001919337476545437
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_16
+  - first:
+      213: 8196201359840012194
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_17
+  - first:
+      213: -1060790565855686617
+    second: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 551
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1427f3c17bba4010800000000000000
+      internalID: 1173956750176887837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 175
+        width: 542
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46579434f73009ee0800000000000000
+      internalID: -1256500450911750812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 158
+        width: 530
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03f2a1880602830800000000000000
+      internalID: 4044338603049824483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Futuristic Jet Sprite Sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 175
+        width: 525
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cd5e8828ae11a30800000000000000
+      internalID: 4184383375167314945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 55d3fa68bb5e51147bad0a788fcd6d75
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_0: 1173956750176887837
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_1: -1256500450911750812
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_10: 4184383375167314945
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_11: 7153597784332438639
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_12: 4366814002954160630
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_13: 5837657254698960010
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_14: 3932337549723201396
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_15: -5948824723928983139
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_16: -7001919337476545437
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_17: 8196201359840012194
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_18: -1060790565855686617
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_2: 3443605223978610488
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_3: -6957846768666043572
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_4: 7098449973105934195
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_5: 9091922975852822566
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_6: 318974827506887579
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_7: 4044338603049824483
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_8: 4227282525439583139
+      Idle Four-Frame Futuristic Jet Sprite Sheet (1)_9: 7693536369822110206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

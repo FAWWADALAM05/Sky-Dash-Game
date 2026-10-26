@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: f630ea3f15045904f8cb3a6c7bee67d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -864545843442796833
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_0"
+  - first:
+      213: -4843954339379654123
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_1"
+  - first:
+      213: -2561233989066923797
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_2"
+  - first:
+      213: 71414149676381823
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_3"
+  - first:
+      213: -1972398797465635349
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_4"
+  - first:
+      213: 5653939105699218420
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_5"
+  - first:
+      213: 5253032032607978395
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_6"
+  - first:
+      213: -4852302017692593535
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_7"
+  - first:
+      213: -1655477457800225141
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_8"
+  - first:
+      213: -5071161450094526331
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_9"
+  - first:
+      213: -3960246703654850442
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_10"
+  - first:
+      213: -3201611922173288080
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_11"
+  - first:
+      213: -944096281764652409
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_12"
+  - first:
+      213: -786682461654097880
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_13"
+  - first:
+      213: 2164504379416600959
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_14"
+  - first:
+      213: 7800039234072332609
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_15"
+  - first:
+      213: -2196219089660735303
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_16"
+  - first:
+      213: 6945330896361502031
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_17"
+  - first:
+      213: -414871748396625434
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_18"
+  - first:
+      213: 4442018893764356112
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_19"
+  - first:
+      213: -8069648960532849642
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_20"
+  - first:
+      213: -3041777342557734846
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_21"
+  - first:
+      213: 5052616000628324471
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_22"
+  - first:
+      213: -3151213115819551679
+    second: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_23"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 533
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd63d8dc2248004f0800000000000000
+      internalID: -864545843442796833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 233
+        width: 527
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51250155131d6ccb0800000000000000
+      internalID: -4843954339379654123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 213
+        width: 534
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be537a17eb1a0a4e0800000000000000
+      internalID: -1972398797465635349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Idle Blue Sci\u2011Fi Jet Sprite Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 180
+        width: 530
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93c8594dc486e840800000000000000
+      internalID: 5253032032607978395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: efc336a6bdd841e4b8415e3168e547e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_0": -864545843442796833
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_1": -4843954339379654123
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_10": -3960246703654850442
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_11": -3201611922173288080
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_12": -944096281764652409
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_13": -786682461654097880
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_14": 2164504379416600959
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_15": 7800039234072332609
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_16": -2196219089660735303
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_17": 6945330896361502031
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_18": -414871748396625434
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_19": 4442018893764356112
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_2": -2561233989066923797
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_20": -8069648960532849642
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_21": -3041777342557734846
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_22": 5052616000628324471
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_23": -3151213115819551679
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_3": 71414149676381823
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_4": -1972398797465635349
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_5": 5653939105699218420
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_6": 5253032032607978395
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_7": -4852302017692593535
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_8": -1655477457800225141
+      "Idle Blue Sci\u2011Fi Jet Sprite Sheet_9": -5071161450094526331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

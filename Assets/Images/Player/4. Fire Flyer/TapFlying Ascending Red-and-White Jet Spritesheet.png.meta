@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: ac3f831e8e1a9aa48ad15f5f38012610
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5734322547874177530
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_0
+  - first:
+      213: -2473193339531950045
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_1
+  - first:
+      213: 4438502297856146571
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_2
+  - first:
+      213: 3716369037636443955
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_3
+  - first:
+      213: -8082152386302950280
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_4
+  - first:
+      213: 1933191352554111976
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_5
+  - first:
+      213: -6055552428512213127
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_6
+  - first:
+      213: -587125004035197468
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_7
+  - first:
+      213: 7665436419038726167
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_8
+  - first:
+      213: -4175699739852498853
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_9
+  - first:
+      213: 5730580549543878496
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_10
+  - first:
+      213: 9051613285707603273
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_11
+  - first:
+      213: -6428558042083155795
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_12
+  - first:
+      213: 2971136282780377600
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_13
+  - first:
+      213: 782405936597470200
+    second: TapFlying Ascending Red-and-White Jet Spritesheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TapFlying Ascending Red-and-White Jet Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 202
+        width: 509
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1ad8db9f7649f40800000000000000
+      internalID: 5734322547874177530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Ascending Red-and-White Jet Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 192
+        width: 501
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c787ed25ab89d30800000000000000
+      internalID: 4438502297856146571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Ascending Red-and-White Jet Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 169
+        width: 461
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87446d9c93d66df80800000000000000
+      internalID: -8082152386302950280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Ascending Red-and-White Jet Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 192
+        width: 491
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57bb76bec1ad7f0800000000000000
+      internalID: -587125004035197468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 151cb43767b515045ac689e0ccee81fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TapFlying Ascending Red-and-White Jet Spritesheet_0: 5734322547874177530
+      TapFlying Ascending Red-and-White Jet Spritesheet_1: -2473193339531950045
+      TapFlying Ascending Red-and-White Jet Spritesheet_10: 5730580549543878496
+      TapFlying Ascending Red-and-White Jet Spritesheet_11: 9051613285707603273
+      TapFlying Ascending Red-and-White Jet Spritesheet_12: -6428558042083155795
+      TapFlying Ascending Red-and-White Jet Spritesheet_13: 2971136282780377600
+      TapFlying Ascending Red-and-White Jet Spritesheet_14: 782405936597470200
+      TapFlying Ascending Red-and-White Jet Spritesheet_2: 4438502297856146571
+      TapFlying Ascending Red-and-White Jet Spritesheet_3: 3716369037636443955
+      TapFlying Ascending Red-and-White Jet Spritesheet_4: -8082152386302950280
+      TapFlying Ascending Red-and-White Jet Spritesheet_5: 1933191352554111976
+      TapFlying Ascending Red-and-White Jet Spritesheet_6: -6055552428512213127
+      TapFlying Ascending Red-and-White Jet Spritesheet_7: -587125004035197468
+      TapFlying Ascending Red-and-White Jet Spritesheet_8: 7665436419038726167
+      TapFlying Ascending Red-and-White Jet Spritesheet_9: -4175699739852498853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 21cf262914a7d444683b8982844f6319
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6140891977759494083
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_0
+  - first:
+      213: 1123807708196142189
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_1
+  - first:
+      213: 4882928078746381500
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_2
+  - first:
+      213: -1194666855054444857
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_3
+  - first:
+      213: -5304192776941068858
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_4
+  - first:
+      213: 8801830655620310937
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_5
+  - first:
+      213: 1073588293718440905
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_6
+  - first:
+      213: 85535580196212426
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_7
+  - first:
+      213: -8689487651126360734
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_8
+  - first:
+      213: -3061297706729479769
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_9
+  - first:
+      213: -8206385266565784914
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_10
+  - first:
+      213: 7726599736089145976
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_11
+  - first:
+      213: 398571128969567386
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_12
+  - first:
+      213: -4851688740547358254
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_13
+  - first:
+      213: 7693743148973068614
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_14
+  - first:
+      213: -5963493242484214638
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_15
+  - first:
+      213: -3740388217128238004
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_16
+  - first:
+      213: -4717787159856985463
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_17
+  - first:
+      213: -1265284047458766516
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_18
+  - first:
+      213: -6613743636275765045
+    second: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 205
+        width: 502
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf866ac7b4d83550800000000000000
+      internalID: 6140891977759494083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 84
+        width: 453
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc657d7735a3c340800000000000000
+      internalID: 4882928078746381500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 160
+        width: 551
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace80413822ef2100800000000000000
+      internalID: 85535580196212426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 196
+        width: 572
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad85054101d1e80800000000000000
+      internalID: -8206385266565784914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 93fa36293b675cd45871144a729eac97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_0: 6140891977759494083
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_1: 1123807708196142189
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_10: -8206385266565784914
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_11: 7726599736089145976
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_12: 398571128969567386
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_13: -4851688740547358254
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_14: 7693743148973068614
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_15: -5963493242484214638
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_16: -3740388217128238004
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_17: -4717787159856985463
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_18: -1265284047458766516
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_19: -6613743636275765045
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_2: 4882928078746381500
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_3: -1194666855054444857
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_4: -5304192776941068858
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_5: 8801830655620310937
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_6: 1073588293718440905
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_7: 85535580196212426
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_8: -8689487651126360734
+      GameOver Four-Frame Smoking Fighter Jet Sprite Sheet_9: -3061297706729479769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

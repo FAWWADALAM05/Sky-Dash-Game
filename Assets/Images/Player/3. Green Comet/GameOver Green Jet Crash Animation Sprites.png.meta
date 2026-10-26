@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: a21faebf41f25374b9529297bc29042e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4519707744193006085
+    second: GameOver Green Jet Crash Animation Sprites_0
+  - first:
+      213: 4417347219919901929
+    second: GameOver Green Jet Crash Animation Sprites_1
+  - first:
+      213: 5124746247653050419
+    second: GameOver Green Jet Crash Animation Sprites_2
+  - first:
+      213: 3781233408357555535
+    second: GameOver Green Jet Crash Animation Sprites_3
+  - first:
+      213: -3171235752548017688
+    second: GameOver Green Jet Crash Animation Sprites_4
+  - first:
+      213: 7786139766176418842
+    second: GameOver Green Jet Crash Animation Sprites_5
+  - first:
+      213: 6232241661280300396
+    second: GameOver Green Jet Crash Animation Sprites_6
+  - first:
+      213: -3856393224943130309
+    second: GameOver Green Jet Crash Animation Sprites_7
+  - first:
+      213: -4859255620934353887
+    second: GameOver Green Jet Crash Animation Sprites_8
+  - first:
+      213: 1722394387671219069
+    second: GameOver Green Jet Crash Animation Sprites_9
+  - first:
+      213: 4700471923169213981
+    second: GameOver Green Jet Crash Animation Sprites_10
+  - first:
+      213: 4361599764223576938
+    second: GameOver Green Jet Crash Animation Sprites_11
+  - first:
+      213: 5927776843118035307
+    second: GameOver Green Jet Crash Animation Sprites_12
+  - first:
+      213: 8224001308841015223
+    second: GameOver Green Jet Crash Animation Sprites_13
+  - first:
+      213: 8272203188899840175
+    second: GameOver Green Jet Crash Animation Sprites_14
+  - first:
+      213: -8044938346581812257
+    second: GameOver Green Jet Crash Animation Sprites_15
+  - first:
+      213: 1299133442512318952
+    second: GameOver Green Jet Crash Animation Sprites_16
+  - first:
+      213: -6878197989028474732
+    second: GameOver Green Jet Crash Animation Sprites_17
+  - first:
+      213: 5294248498565222946
+    second: GameOver Green Jet Crash Animation Sprites_18
+  - first:
+      213: -8090946371929107629
+    second: GameOver Green Jet Crash Animation Sprites_19
+  - first:
+      213: 3742941413626767523
+    second: GameOver Green Jet Crash Animation Sprites_20
+  - first:
+      213: 3644821334306051977
+    second: GameOver Green Jet Crash Animation Sprites_21
+  - first:
+      213: 982083756946812214
+    second: GameOver Green Jet Crash Animation Sprites_22
+  - first:
+      213: 2120305261038331177
+    second: GameOver Green Jet Crash Animation Sprites_23
+  - first:
+      213: 2122374639012865956
+    second: GameOver Green Jet Crash Animation Sprites_24
+  - first:
+      213: -564224709687968988
+    second: GameOver Green Jet Crash Animation Sprites_25
+  - first:
+      213: -7837775571675965569
+    second: GameOver Green Jet Crash Animation Sprites_26
+  - first:
+      213: -4769825757529776148
+    second: GameOver Green Jet Crash Animation Sprites_27
+  - first:
+      213: 8970249586918761225
+    second: GameOver Green Jet Crash Animation Sprites_28
+  - first:
+      213: 8638315418945004596
+    second: GameOver Green Jet Crash Animation Sprites_29
+  - first:
+      213: 7298714842980589377
+    second: GameOver Green Jet Crash Animation Sprites_30
+  - first:
+      213: 6536263245301116461
+    second: GameOver Green Jet Crash Animation Sprites_31
+  - first:
+      213: -6668126323919206603
+    second: GameOver Green Jet Crash Animation Sprites_32
+  - first:
+      213: -723883763123126444
+    second: GameOver Green Jet Crash Animation Sprites_33
+  - first:
+      213: 4481260415912831305
+    second: GameOver Green Jet Crash Animation Sprites_34
+  - first:
+      213: 1900340453501799351
+    second: GameOver Green Jet Crash Animation Sprites_35
+  - first:
+      213: 3883267513847091074
+    second: GameOver Green Jet Crash Animation Sprites_36
+  - first:
+      213: 1809989834403263586
+    second: GameOver Green Jet Crash Animation Sprites_37
+  - first:
+      213: 5457924712063877096
+    second: GameOver Green Jet Crash Animation Sprites_38
+  - first:
+      213: 5384425343614767789
+    second: GameOver Green Jet Crash Animation Sprites_39
+  - first:
+      213: -8695329824715223398
+    second: GameOver Green Jet Crash Animation Sprites_40
+  - first:
+      213: -1032204832882382208
+    second: GameOver Green Jet Crash Animation Sprites_41
+  - first:
+      213: -7778976913547820681
+    second: GameOver Green Jet Crash Animation Sprites_42
+  - first:
+      213: -7891315789639476154
+    second: GameOver Green Jet Crash Animation Sprites_43
+  - first:
+      213: 8903896403691792332
+    second: GameOver Green Jet Crash Animation Sprites_44
+  - first:
+      213: -2589338670488890621
+    second: GameOver Green Jet Crash Animation Sprites_45
+  - first:
+      213: -4802505536751768664
+    second: GameOver Green Jet Crash Animation Sprites_46
+  - first:
+      213: 8939320215376874702
+    second: GameOver Green Jet Crash Animation Sprites_47
+  - first:
+      213: 5136529440965769874
+    second: GameOver Green Jet Crash Animation Sprites_48
+  - first:
+      213: 69557116281620392
+    second: GameOver Green Jet Crash Animation Sprites_49
+  - first:
+      213: 5745804082635675724
+    second: GameOver Green Jet Crash Animation Sprites_50
+  - first:
+      213: 8018851186492969315
+    second: GameOver Green Jet Crash Animation Sprites_51
+  - first:
+      213: -6078659787325137792
+    second: GameOver Green Jet Crash Animation Sprites_52
+  - first:
+      213: 2894011462645763910
+    second: GameOver Green Jet Crash Animation Sprites_53
+  - first:
+      213: 1977460439488958195
+    second: GameOver Green Jet Crash Animation Sprites_54
+  - first:
+      213: -2311583547565273884
+    second: GameOver Green Jet Crash Animation Sprites_55
+  - first:
+      213: 8681150338387921741
+    second: GameOver Green Jet Crash Animation Sprites_56
+  - first:
+      213: -240769842209819973
+    second: GameOver Green Jet Crash Animation Sprites_57
+  - first:
+      213: -8098788075921159131
+    second: GameOver Green Jet Crash Animation Sprites_58
+  - first:
+      213: -6218892542549467121
+    second: GameOver Green Jet Crash Animation Sprites_59
+  - first:
+      213: 1543149611972018834
+    second: GameOver Green Jet Crash Animation Sprites_60
+  - first:
+      213: -5179522234764740006
+    second: GameOver Green Jet Crash Animation Sprites_61
+  - first:
+      213: 5559378946831856058
+    second: GameOver Green Jet Crash Animation Sprites_62
+  - first:
+      213: -7087473265991549702
+    second: GameOver Green Jet Crash Animation Sprites_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOver Green Jet Crash Animation Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 186
+        width: 575
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf448e19c27e710800000000000000
+      internalID: 1722394387671219069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Green Jet Crash Animation Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 116
+        width: 445
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d6290f5bbb80a0800000000000000
+      internalID: -6878197989028474732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Green Jet Crash Animation Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 548
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22210a595f2f87940800000000000000
+      internalID: 5294248498565222946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver Green Jet Crash Animation Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 190
+        width: 568
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dee7049ff01ad00800000000000000
+      internalID: 982083756946812214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c9b91f831ac5187419015148f81655d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameOver Green Jet Crash Animation Sprites_0: -4519707744193006085
+      GameOver Green Jet Crash Animation Sprites_1: 4417347219919901929
+      GameOver Green Jet Crash Animation Sprites_10: 4700471923169213981
+      GameOver Green Jet Crash Animation Sprites_11: 4361599764223576938
+      GameOver Green Jet Crash Animation Sprites_12: 5927776843118035307
+      GameOver Green Jet Crash Animation Sprites_13: 8224001308841015223
+      GameOver Green Jet Crash Animation Sprites_14: 8272203188899840175
+      GameOver Green Jet Crash Animation Sprites_15: -8044938346581812257
+      GameOver Green Jet Crash Animation Sprites_16: 1299133442512318952
+      GameOver Green Jet Crash Animation Sprites_17: -6878197989028474732
+      GameOver Green Jet Crash Animation Sprites_18: 5294248498565222946
+      GameOver Green Jet Crash Animation Sprites_19: -8090946371929107629
+      GameOver Green Jet Crash Animation Sprites_2: 5124746247653050419
+      GameOver Green Jet Crash Animation Sprites_20: 3742941413626767523
+      GameOver Green Jet Crash Animation Sprites_21: 3644821334306051977
+      GameOver Green Jet Crash Animation Sprites_22: 982083756946812214
+      GameOver Green Jet Crash Animation Sprites_23: 2120305261038331177
+      GameOver Green Jet Crash Animation Sprites_24: 2122374639012865956
+      GameOver Green Jet Crash Animation Sprites_25: -564224709687968988
+      GameOver Green Jet Crash Animation Sprites_26: -7837775571675965569
+      GameOver Green Jet Crash Animation Sprites_27: -4769825757529776148
+      GameOver Green Jet Crash Animation Sprites_28: 8970249586918761225
+      GameOver Green Jet Crash Animation Sprites_29: 8638315418945004596
+      GameOver Green Jet Crash Animation Sprites_3: 3781233408357555535
+      GameOver Green Jet Crash Animation Sprites_30: 7298714842980589377
+      GameOver Green Jet Crash Animation Sprites_31: 6536263245301116461
+      GameOver Green Jet Crash Animation Sprites_32: -6668126323919206603
+      GameOver Green Jet Crash Animation Sprites_33: -723883763123126444
+      GameOver Green Jet Crash Animation Sprites_34: 4481260415912831305
+      GameOver Green Jet Crash Animation Sprites_35: 1900340453501799351
+      GameOver Green Jet Crash Animation Sprites_36: 3883267513847091074
+      GameOver Green Jet Crash Animation Sprites_37: 1809989834403263586
+      GameOver Green Jet Crash Animation Sprites_38: 5457924712063877096
+      GameOver Green Jet Crash Animation Sprites_39: 5384425343614767789
+      GameOver Green Jet Crash Animation Sprites_4: -3171235752548017688
+      GameOver Green Jet Crash Animation Sprites_40: -8695329824715223398
+      GameOver Green Jet Crash Animation Sprites_41: -1032204832882382208
+      GameOver Green Jet Crash Animation Sprites_42: -7778976913547820681
+      GameOver Green Jet Crash Animation Sprites_43: -7891315789639476154
+      GameOver Green Jet Crash Animation Sprites_44: 8903896403691792332
+      GameOver Green Jet Crash Animation Sprites_45: -2589338670488890621
+      GameOver Green Jet Crash Animation Sprites_46: -4802505536751768664
+      GameOver Green Jet Crash Animation Sprites_47: 8939320215376874702
+      GameOver Green Jet Crash Animation Sprites_48: 5136529440965769874
+      GameOver Green Jet Crash Animation Sprites_49: 69557116281620392
+      GameOver Green Jet Crash Animation Sprites_5: 7786139766176418842
+      GameOver Green Jet Crash Animation Sprites_50: 5745804082635675724
+      GameOver Green Jet Crash Animation Sprites_51: 8018851186492969315
+      GameOver Green Jet Crash Animation Sprites_52: -6078659787325137792
+      GameOver Green Jet Crash Animation Sprites_53: 2894011462645763910
+      GameOver Green Jet Crash Animation Sprites_54: 1977460439488958195
+      GameOver Green Jet Crash Animation Sprites_55: -2311583547565273884
+      GameOver Green Jet Crash Animation Sprites_56: 8681150338387921741
+      GameOver Green Jet Crash Animation Sprites_57: -240769842209819973
+      GameOver Green Jet Crash Animation Sprites_58: -8098788075921159131
+      GameOver Green Jet Crash Animation Sprites_59: -6218892542549467121
+      GameOver Green Jet Crash Animation Sprites_6: 6232241661280300396
+      GameOver Green Jet Crash Animation Sprites_60: 1543149611972018834
+      GameOver Green Jet Crash Animation Sprites_61: -5179522234764740006
+      GameOver Green Jet Crash Animation Sprites_62: 5559378946831856058
+      GameOver Green Jet Crash Animation Sprites_63: -7087473265991549702
+      GameOver Green Jet Crash Animation Sprites_7: -3856393224943130309
+      GameOver Green Jet Crash Animation Sprites_8: -4859255620934353887
+      GameOver Green Jet Crash Animation Sprites_9: 1722394387671219069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

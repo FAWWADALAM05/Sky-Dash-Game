@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 1808c9709a0850f49b3aa52b074ce54d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6325554108869432278
+    second: Idle Four Green Jet Sprite Frames_0
+  - first:
+      213: 5192627425829024274
+    second: Idle Four Green Jet Sprite Frames_1
+  - first:
+      213: 2116003297520206237
+    second: Idle Four Green Jet Sprite Frames_2
+  - first:
+      213: -8655129530595921585
+    second: Idle Four Green Jet Sprite Frames_3
+  - first:
+      213: 95036101263965037
+    second: Idle Four Green Jet Sprite Frames_4
+  - first:
+      213: -4194535442975329014
+    second: Idle Four Green Jet Sprite Frames_5
+  - first:
+      213: 1389651429497406099
+    second: Idle Four Green Jet Sprite Frames_6
+  - first:
+      213: 336203566389204932
+    second: Idle Four Green Jet Sprite Frames_7
+  - first:
+      213: 5285338720828699292
+    second: Idle Four Green Jet Sprite Frames_8
+  - first:
+      213: 2392508331919486913
+    second: Idle Four Green Jet Sprite Frames_9
+  - first:
+      213: -841364526170569596
+    second: Idle Four Green Jet Sprite Frames_10
+  - first:
+      213: -3643048909474815592
+    second: Idle Four Green Jet Sprite Frames_11
+  - first:
+      213: 5476637470838787614
+    second: Idle Four Green Jet Sprite Frames_12
+  - first:
+      213: -1665782859564321369
+    second: Idle Four Green Jet Sprite Frames_13
+  - first:
+      213: 5414685029497899331
+    second: Idle Four Green Jet Sprite Frames_14
+  - first:
+      213: -9002261714846977631
+    second: Idle Four Green Jet Sprite Frames_15
+  - first:
+      213: 8991661882782729322
+    second: Idle Four Green Jet Sprite Frames_16
+  - first:
+      213: -3804727833590052947
+    second: Idle Four Green Jet Sprite Frames_17
+  - first:
+      213: -190885706085294948
+    second: Idle Four Green Jet Sprite Frames_18
+  - first:
+      213: 6122867705099309930
+    second: Idle Four Green Jet Sprite Frames_19
+  - first:
+      213: -1460834861557135981
+    second: Idle Four Green Jet Sprite Frames_20
+  - first:
+      213: 7661546485040663164
+    second: Idle Four Green Jet Sprite Frames_21
+  - first:
+      213: 8518621908726245147
+    second: Idle Four Green Jet Sprite Frames_22
+  - first:
+      213: -4679019181413418617
+    second: Idle Four Green Jet Sprite Frames_23
+  - first:
+      213: -7543215074271951156
+    second: Idle Four Green Jet Sprite Frames_24
+  - first:
+      213: 7552983824635299504
+    second: Idle Four Green Jet Sprite Frames_25
+  - first:
+      213: 5545669063531830751
+    second: Idle Four Green Jet Sprite Frames_26
+  - first:
+      213: 4318258906237937660
+    second: Idle Four Green Jet Sprite Frames_27
+  - first:
+      213: 4157175722503667106
+    second: Idle Four Green Jet Sprite Frames_28
+  - first:
+      213: 3883549969891607687
+    second: Idle Four Green Jet Sprite Frames_29
+  - first:
+      213: 5756418238393293634
+    second: Idle Four Green Jet Sprite Frames_30
+  - first:
+      213: 998553680250828111
+    second: Idle Four Green Jet Sprite Frames_31
+  - first:
+      213: -6273827517133626479
+    second: Idle Four Green Jet Sprite Frames_32
+  - first:
+      213: 6017337864146772825
+    second: Idle Four Green Jet Sprite Frames_33
+  - first:
+      213: 6074405299790248986
+    second: Idle Four Green Jet Sprite Frames_34
+  - first:
+      213: -1489781228608641906
+    second: Idle Four Green Jet Sprite Frames_35
+  - first:
+      213: -4031159575213716044
+    second: Idle Four Green Jet Sprite Frames_36
+  - first:
+      213: 6053926121668030590
+    second: Idle Four Green Jet Sprite Frames_37
+  - first:
+      213: -3731974994901781019
+    second: Idle Four Green Jet Sprite Frames_38
+  - first:
+      213: -3562047899489962478
+    second: Idle Four Green Jet Sprite Frames_39
+  - first:
+      213: 8917298841059283728
+    second: Idle Four Green Jet Sprite Frames_40
+  - first:
+      213: -6693510203185149602
+    second: Idle Four Green Jet Sprite Frames_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Four Green Jet Sprite Frames_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 515
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c235d5d0e1738a0800000000000000
+      internalID: -6325554108869432278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four Green Jet Sprite Frames_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 201
+        width: 529
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4136db7c8dc2e780800000000000000
+      internalID: -8655129530595921585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four Green Jet Sprite Frames_10
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 194
+        width: 490
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4840df2db6fd254f0800000000000000
+      internalID: -841364526170569596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four Green Jet Sprite Frames_15
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 220
+        width: 501
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a172779aaa811380800000000000000
+      internalID: -9002261714846977631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0a8f21b6fa7a5940a94ad09c17ac116
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Four Green Jet Sprite Frames_0: -6325554108869432278
+      Idle Four Green Jet Sprite Frames_1: 5192627425829024274
+      Idle Four Green Jet Sprite Frames_10: -841364526170569596
+      Idle Four Green Jet Sprite Frames_11: -3643048909474815592
+      Idle Four Green Jet Sprite Frames_12: 5476637470838787614
+      Idle Four Green Jet Sprite Frames_13: -1665782859564321369
+      Idle Four Green Jet Sprite Frames_14: 5414685029497899331
+      Idle Four Green Jet Sprite Frames_15: -9002261714846977631
+      Idle Four Green Jet Sprite Frames_16: 8991661882782729322
+      Idle Four Green Jet Sprite Frames_17: -3804727833590052947
+      Idle Four Green Jet Sprite Frames_18: -190885706085294948
+      Idle Four Green Jet Sprite Frames_19: 6122867705099309930
+      Idle Four Green Jet Sprite Frames_2: 2116003297520206237
+      Idle Four Green Jet Sprite Frames_20: -1460834861557135981
+      Idle Four Green Jet Sprite Frames_21: 7661546485040663164
+      Idle Four Green Jet Sprite Frames_22: 8518621908726245147
+      Idle Four Green Jet Sprite Frames_23: -4679019181413418617
+      Idle Four Green Jet Sprite Frames_24: -7543215074271951156
+      Idle Four Green Jet Sprite Frames_25: 7552983824635299504
+      Idle Four Green Jet Sprite Frames_26: 5545669063531830751
+      Idle Four Green Jet Sprite Frames_27: 4318258906237937660
+      Idle Four Green Jet Sprite Frames_28: 4157175722503667106
+      Idle Four Green Jet Sprite Frames_29: 3883549969891607687
+      Idle Four Green Jet Sprite Frames_3: -8655129530595921585
+      Idle Four Green Jet Sprite Frames_30: 5756418238393293634
+      Idle Four Green Jet Sprite Frames_31: 998553680250828111
+      Idle Four Green Jet Sprite Frames_32: -6273827517133626479
+      Idle Four Green Jet Sprite Frames_33: 6017337864146772825
+      Idle Four Green Jet Sprite Frames_34: 6074405299790248986
+      Idle Four Green Jet Sprite Frames_35: -1489781228608641906
+      Idle Four Green Jet Sprite Frames_36: -4031159575213716044
+      Idle Four Green Jet Sprite Frames_37: 6053926121668030590
+      Idle Four Green Jet Sprite Frames_38: -3731974994901781019
+      Idle Four Green Jet Sprite Frames_39: -3562047899489962478
+      Idle Four Green Jet Sprite Frames_4: 95036101263965037
+      Idle Four Green Jet Sprite Frames_40: 8917298841059283728
+      Idle Four Green Jet Sprite Frames_41: -6693510203185149602
+      Idle Four Green Jet Sprite Frames_5: -4194535442975329014
+      Idle Four Green Jet Sprite Frames_6: 1389651429497406099
+      Idle Four Green Jet Sprite Frames_7: 336203566389204932
+      Idle Four Green Jet Sprite Frames_8: 5285338720828699292
+      Idle Four Green Jet Sprite Frames_9: 2392508331919486913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

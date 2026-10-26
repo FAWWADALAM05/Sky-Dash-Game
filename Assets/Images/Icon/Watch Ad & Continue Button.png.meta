@@ -130,6 +130,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -137,12 +150,12 @@ TextureImporter:
       name: Watch Ad & Continue Button_0
       rect:
         serializedVersion: 2
-        x: 75
-        y: 30
-        width: 1887
-        height: 735
+        x: 31
+        y: 27
+        width: 748
+        height: 253
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -155,165 +168,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_1
-      rect:
-        serializedVersion: 2
-        x: 703
-        y: 762
-        width: 101
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd50792dfb2886150800000000000000
-      internalID: 5866082275033548252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_2
-      rect:
-        serializedVersion: 2
-        x: 1619
-        y: 701
-        width: 10
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 839e23abb95ffc220800000000000000
-      internalID: 2508493566661290296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_3
-      rect:
-        serializedVersion: 2
-        x: 991
-        y: 727
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90bd0a395c8b5ad30800000000000000
-      internalID: 4442159766195723017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_4
-      rect:
-        serializedVersion: 2
-        x: 1411
-        y: 731
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4ccfd058f99bd070800000000000000
-      internalID: 8132262843935345743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_5
-      rect:
-        serializedVersion: 2
-        x: 860
-        y: 703
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57e6061eb33487d60800000000000000
-      internalID: 7888128671802748533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_6
-      rect:
-        serializedVersion: 2
-        x: 1403
-        y: 694
-        width: 23
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff351f09234072350800000000000000
-      internalID: 5991762444466344959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Watch Ad & Continue Button_7
-      rect:
-        serializedVersion: 2
-        x: 1445
-        y: 698
-        width: 17
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 372789c8e7b6cf5c0800000000000000
-      internalID: -4180348162837810573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 83d9b1cb894f00f429f3d261ad5e0650
     internalID: 0
     vertices: []
     indices: 
@@ -321,16 +180,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Watch Ad & Continue Button_0: 5996174153829114506
-      Watch Ad & Continue Button_1: 5866082275033548252
-      Watch Ad & Continue Button_2: 2508493566661290296
-      Watch Ad & Continue Button_3: 4442159766195723017
-      Watch Ad & Continue Button_4: 8132262843935345743
-      Watch Ad & Continue Button_5: 7888128671802748533
-      Watch Ad & Continue Button_6: 5991762444466344959
-      Watch Ad & Continue Button_7: -4180348162837810573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

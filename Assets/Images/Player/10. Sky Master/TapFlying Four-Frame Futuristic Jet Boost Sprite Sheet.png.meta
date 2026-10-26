@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: ca5ed623f93e254438ebf1ec0b3f1b38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2625553807851229647
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_0
+  - first:
+      213: 9005183775451768147
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_1
+  - first:
+      213: 1245439292453858660
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_2
+  - first:
+      213: 5487804678642618286
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_3
+  - first:
+      213: 1847497742538156379
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_4
+  - first:
+      213: -476006759628165692
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_5
+  - first:
+      213: 613227946448821880
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_6
+  - first:
+      213: -603696191897588393
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_7
+  - first:
+      213: 3240038835751491066
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_8
+  - first:
+      213: 4587376344887191887
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_9
+  - first:
+      213: 8928374643255922099
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_10
+  - first:
+      213: -2002312576497853959
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_11
+  - first:
+      213: -852636706099003543
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_12
+  - first:
+      213: 8626817625163564934
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_13
+  - first:
+      213: -6508266969629801899
+    second: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 208
+        width: 443
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e6a58f8b8209bd0800000000000000
+      internalID: -2625553807851229647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 156
+        width: 466
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a25b8861a3a910800000000000000
+      internalID: 1847497742538156379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 192
+        width: 466
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e9c6a719f928800800000000000000
+      internalID: 613227946448821880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 226
+        width: 458
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f728aee63da24f0800000000000000
+      internalID: -852636706099003543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 68d2e59ac9f3fa34abd9593c9b06fd80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_0: -2625553807851229647
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_1: 9005183775451768147
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_10: 8928374643255922099
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_11: -2002312576497853959
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_12: -852636706099003543
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_13: 8626817625163564934
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_14: -6508266969629801899
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_2: 1245439292453858660
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_3: 5487804678642618286
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_4: 1847497742538156379
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_5: -476006759628165692
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_6: 613227946448821880
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_7: -603696191897588393
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_8: 3240038835751491066
+      TapFlying Four-Frame Futuristic Jet Boost Sprite Sheet_9: 4587376344887191887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

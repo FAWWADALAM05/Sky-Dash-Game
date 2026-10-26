@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: cea178fdd95c63c4cac51f30a24790ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6861445320633129181
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_0
+  - first:
+      213: 530321092636917346
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_1
+  - first:
+      213: -2035339109980590089
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_2
+  - first:
+      213: -4407064172468566430
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_3
+  - first:
+      213: -8492913702930550843
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_4
+  - first:
+      213: 4374678551241595980
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_5
+  - first:
+      213: 7589506988501820160
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_6
+  - first:
+      213: -6315933688188220165
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_7
+  - first:
+      213: 2336643279683831100
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_8
+  - first:
+      213: 4776490320867860785
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_9
+  - first:
+      213: -4120993357680638427
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_10
+  - first:
+      213: 3081974693022965023
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_11
+  - first:
+      213: -2030101685581903370
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_12
+  - first:
+      213: 1552214938413174996
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_13
+  - first:
+      213: -6924246254391041702
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_14
+  - first:
+      213: -5864697481688879827
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_15
+  - first:
+      213: 3852469059245281848
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_16
+  - first:
+      213: -3610799785782434771
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_17
+  - first:
+      213: 2016519911073551865
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_18
+  - first:
+      213: -8524857957199843323
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_19
+  - first:
+      213: -4501645754779340024
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_20
+  - first:
+      213: 3230136352878346862
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_21
+  - first:
+      213: 2114740571511348825
+    second: Idle Four-Frame Red Fighter Jet Sprite Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Four-Frame Red Fighter Jet Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 205
+        width: 532
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32765e995df37c0a0800000000000000
+      internalID: -6861445320633129181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Red Fighter Jet Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 222
+        width: 530
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e358759341c5700800000000000000
+      internalID: 530321092636917346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Red Fighter Jet Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 203
+        width: 508
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa528fcd501c3e0800000000000000
+      internalID: -2035339109980590089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Four-Frame Red Fighter Jet Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 192
+        width: 525
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c964dd6faf5bc30800000000000000
+      internalID: 4374678551241595980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8f51687c33172c49b3b4bd301bc6236
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_0: -6861445320633129181
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_1: 530321092636917346
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_10: -4120993357680638427
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_11: 3081974693022965023
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_12: -2030101685581903370
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_13: 1552214938413174996
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_14: -6924246254391041702
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_15: -5864697481688879827
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_16: 3852469059245281848
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_17: -3610799785782434771
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_18: 2016519911073551865
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_19: -8524857957199843323
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_2: -2035339109980590089
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_20: -4501645754779340024
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_21: 3230136352878346862
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_22: 2114740571511348825
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_3: -4407064172468566430
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_4: -8492913702930550843
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_5: 4374678551241595980
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_6: 7589506988501820160
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_7: -6315933688188220165
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_8: 2336643279683831100
+      Idle Four-Frame Red Fighter Jet Sprite Sheet_9: 4776490320867860785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
